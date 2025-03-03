@@ -21,6 +21,7 @@ class SIMULATION:
     def Run(self):
         for step in range(c.size):
             self.robot.Sense(step)
+            self.robot.Think()
             self.robot.Act(step)
             
             p.stepSimulation()
