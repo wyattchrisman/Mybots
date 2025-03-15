@@ -27,14 +27,16 @@ class SIMULATION:
             p.stepSimulation()
             
             #print(step)
-            time.sleep(1/60)
+            time.sleep(1/2000)
 
     def __del__(self):
         for sensor in self.robot.sensors.values():
             sensor.Save_Values()
 
+        '''
         for motor in self.robot.motors.values():
             motor.Save_Values()
-            
+        '''    
+        
         p.disconnect()
 
