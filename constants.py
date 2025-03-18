@@ -13,3 +13,4 @@ amplitude_front = 0
 frequency_front = 15
 phaseOffset_front = 0
 
+numberOfGenerations = 10
