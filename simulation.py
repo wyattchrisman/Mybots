@@ -3,16 +3,17 @@ import pybullet_data
 import pyrosim.pyrosim as pyrosim
 import constants as c
 import time
-
 from world import WORLD
 from robot import ROBOT
 
 class SIMULATION:
 
-    def __init__(self, directOrGUI) -> None:
+    def __init__(self, directOrGUI, solutionID) -> None:
+
+        self.directOrGUI = directOrGUI
 
         
-        if directOrGUI == "DIRECT":
+        if self.directOrGUI == "DIRECT":
             self.physicsClient = p.connect(p.DIRECT)
         else:
             self.physicsClient = p.connect(p.GUI)
@@ -22,7 +23,7 @@ class SIMULATION:
         p.setGravity(0,0,-9.8, self.physicsClient)
 
         self.world = WORLD()
-        self.robot = ROBOT()
+        self.robot = ROBOT(solutionID)
 
     def Run(self):
         for step in range(c.size):
@@ -33,7 +34,9 @@ class SIMULATION:
             p.stepSimulation()
             
             #print(step)
-            # time.sleep(1/2000)
+            if self.directOrGUI == "GUI":
+                time.sleep(c.sleep)
+                # pass
 
     def Get_Fitness(self):
         self.robot.Get_Fitness()
