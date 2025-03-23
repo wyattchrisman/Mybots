@@ -2,6 +2,7 @@ import numpy
 
 # Step size
 size = 1000
+sleep = 1/1300
 
 # Back Leg
 amplitude_back = numpy.pi / 4
@@ -14,3 +15,5 @@ frequency_front = 15
 phaseOffset_front = 0
 
 numberOfGenerations = 10
+populationSize = 10
+
