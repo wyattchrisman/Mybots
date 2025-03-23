@@ -27,6 +27,7 @@ class ROBOT:
 
         for linkName in pyrosim.linkNamesToIndices:
             self.sensors[linkName] = SENSOR(linkName)
+            
 
     def Sense(self, step):
         for sensorName, sensor in self.sensors.items():
@@ -44,7 +45,7 @@ class ROBOT:
             if self.nn.Is_Motor_Neuron(neuronName):
                 jointName = self.nn.Get_Motor_Neurons_Joint(neuronName).encode("utf-8")
 
-                desiredAngle = self.nn.Get_Value_Of(neuronName)
+                desiredAngle = self.nn.Get_Value_Of(neuronName) * c.motorJointRange
 
                 self.motors[jointName].Set_Value(self, desiredAngle)
 
