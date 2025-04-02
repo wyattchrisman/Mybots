@@ -5,6 +5,7 @@ from sensor import SENSOR
 from motor import MOTOR
 import constants as c
 import os
+import numpy
 
 
 class ROBOT:
@@ -30,8 +31,16 @@ class ROBOT:
             
 
     def Sense(self, step):
+        values = []
         for sensorName, sensor in self.sensors.items():
             sensor.Get_Value(step)
+            if 'Lower' in sensorName:
+                values.append(sensor.return_value(step))
+
+        average_sensor = numpy.mean(values)
+        all_touching = True if (average_sensor == -1 or average_sensor == 1) else False
+        print(f"Step {step}: sensor values {[int(i) for i in values]}")
+        print(f"Step {step}: average = {average_sensor}, all legs matching is {all_touching}")
 
     def Prepare_To_Act(self):
         self.motors = {}
@@ -61,9 +70,12 @@ class ROBOT:
         #self.nn.Print()
 
     def Get_Fitness(self):
-        xCoordinateOfLinkZero = p.getLinkState(self.robotId,0)[0][0]
+        basePositionAndOrientation = p.getBasePositionAndOrientation(self.robotId)
+        basePosition = basePositionAndOrientation[0]
+        xPosition = basePosition[0]
+
 
         with open(f"tmp{str(self.solutionID)}.txt", "w") as file:
-            file.write(str(xCoordinateOfLinkZero))
+            file.write(str(xPosition))
 
         os.system(f"mv tmp{str(self.solutionID)}.txt fitness{str(self.solutionID)}.txt")

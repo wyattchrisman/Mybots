@@ -16,15 +16,12 @@ class SOLUTION:
     def Set_ID(self, nextAvailableID):
         self.myID = nextAvailableID
 
-    def Evaluate(self, directOrGUI):
-        pass
-
     def Start_Simulation(self, directOrGUI):
         self.Create_World()
         self.Generate_Body()
         self.Generate_Brain()
 
-        os.system(f"python3 simulate.py {directOrGUI} {int(self.myID)} 2&>1 &")
+        os.system(f"python3 simulate.py {directOrGUI} {int(self.myID)} 2&>1.txt &")
 
     def Wait_For_Simulation_To_End(self):
         fitnessFile = f"fitness{str(self.myID)}.txt"

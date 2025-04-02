@@ -1,0 +1,2005 @@
+pybullet build time: Mar 17 2025 19:15:25
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+expected a world element, continuing without it.Step 0: sensor values [-1, -1, -1, -1]
+Step 0: average = -1.0, all legs matching is True
+Step 1: sensor values [1, 1, 1, 1]
+Step 1: average = 1.0, all legs matching is True
+Step 2: sensor values [1, 1, 1, -1]
+Step 2: average = 0.5, all legs matching is False
+Step 3: sensor values [-1, -1, -1, 1]
+Step 3: average = -0.5, all legs matching is False
+Step 4: sensor values [1, -1, 1, 1]
+Step 4: average = 0.5, all legs matching is False
+Step 5: sensor values [1, -1, 1, 1]
+Step 5: average = 0.5, all legs matching is False
+Step 6: sensor values [-1, -1, -1, 1]
+Step 6: average = -0.5, all legs matching is False
+Step 7: sensor values [1, -1, -1, -1]
+Step 7: average = -0.5, all legs matching is False
+Step 8: sensor values [1, 1, -1, 1]
+Step 8: average = 0.5, all legs matching is False
+Step 9: sensor values [1, 1, -1, -1]
+Step 9: average = 0.0, all legs matching is False
+Step 10: sensor values [1, 1, -1, -1]
+Step 10: average = 0.0, all legs matching is False
+Step 11: sensor values [1, -1, -1, -1]
+Step 11: average = -0.5, all legs matching is False
+Step 12: sensor values [-1, 1, -1, -1]
+Step 12: average = -0.5, all legs matching is False
+Step 13: sensor values [1, 1, -1, 1]
+Step 13: average = 0.5, all legs matching is False
+Step 14: sensor values [1, -1, -1, -1]
+Step 14: average = -0.5, all legs matching is False
+Step 15: sensor values [1, -1, -1, 1]
+Step 15: average = 0.0, all legs matching is False
+Step 16: sensor values [1, -1, 1, 1]
+Step 16: average = 0.5, all legs matching is False
+Step 17: sensor values [1, 1, 1, 1]
+Step 17: average = 1.0, all legs matching is True
+Step 18: sensor values [1, 1, 1, 1]
+Step 18: average = 1.0, all legs matching is True
+Step 19: sensor values [1, -1, 1, 1]
+Step 19: average = 0.5, all legs matching is False
+Step 20: sensor values [1, -1, 1, 1]
+Step 20: average = 0.5, all legs matching is False
+Step 21: sensor values [1, -1, -1, 1]
+Step 21: average = 0.0, all legs matching is False
+Step 22: sensor values [1, 1, -1, 1]
+Step 22: average = 0.5, all legs matching is False
+Step 23: sensor values [1, 1, -1, 1]
+Step 23: average = 0.5, all legs matching is False
+Step 24: sensor values [-1, -1, -1, 1]
+Step 24: average = -0.5, all legs matching is False
+Step 25: sensor values [1, -1, -1, 1]
+Step 25: average = 0.0, all legs matching is False
+Step 26: sensor values [1, -1, -1, 1]
+Step 26: average = 0.0, all legs matching is False
+Step 27: sensor values [1, -1, -1, 1]
+Step 27: average = 0.0, all legs matching is False
+Step 28: sensor values [1, -1, -1, 1]
+Step 28: average = 0.0, all legs matching is False
+Step 29: sensor values [-1, 1, -1, -1]
+Step 29: average = -0.5, all legs matching is False
+Step 30: sensor values [1, 1, -1, -1]
+Step 30: average = 0.0, all legs matching is False
+Step 31: sensor values [-1, -1, -1, -1]
+Step 31: average = -1.0, all legs matching is True
+Step 32: sensor values [1, -1, -1, -1]
+Step 32: average = -0.5, all legs matching is False
+Step 33: sensor values [-1, -1, -1, -1]
+Step 33: average = -1.0, all legs matching is True
+Step 34: sensor values [1, -1, -1, -1]
+Step 34: average = -0.5, all legs matching is False
+Step 35: sensor values [1, 1, 1, -1]
+Step 35: average = 0.5, all legs matching is False
+Step 36: sensor values [1, 1, 1, -1]
+Step 36: average = 0.5, all legs matching is False
+Step 37: sensor values [-1, 1, 1, -1]
+Step 37: average = 0.0, all legs matching is False
+Step 38: sensor values [-1, -1, 1, -1]
+Step 38: average = -0.5, all legs matching is False
+Step 39: sensor values [-1, -1, 1, -1]
+Step 39: average = -0.5, all legs matching is False
+Step 40: sensor values [-1, -1, 1, -1]
+Step 40: average = -0.5, all legs matching is False
+Step 41: sensor values [-1, -1, 1, -1]
+Step 41: average = -0.5, all legs matching is False
+Step 42: sensor values [-1, -1, -1, -1]
+Step 42: average = -1.0, all legs matching is True
+Step 43: sensor values [-1, 1, -1, -1]
+Step 43: average = -0.5, all legs matching is False
+Step 44: sensor values [-1, 1, -1, -1]
+Step 44: average = -0.5, all legs matching is False
+Step 45: sensor values [-1, -1, -1, -1]
+Step 45: average = -1.0, all legs matching is True
+Step 46: sensor values [-1, -1, -1, -1]
+Step 46: average = -1.0, all legs matching is True
+Step 47: sensor values [-1, -1, -1, -1]
+Step 47: average = -1.0, all legs matching is True
+Step 48: sensor values [-1, -1, -1, -1]
+Step 48: average = -1.0, all legs matching is True
+Step 49: sensor values [-1, -1, -1, -1]
+Step 49: average = -1.0, all legs matching is True
+Step 50: sensor values [-1, -1, -1, -1]
+Step 50: average = -1.0, all legs matching is True
+Step 51: sensor values [1, -1, -1, -1]
+Step 51: average = -0.5, all legs matching is False
+Step 52: sensor values [1, 1, -1, -1]
+Step 52: average = 0.0, all legs matching is False
+Step 53: sensor values [1, 1, -1, -1]
+Step 53: average = 0.0, all legs matching is False
+Step 54: sensor values [1, 1, -1, -1]
+Step 54: average = 0.0, all legs matching is False
+Step 55: sensor values [1, 1, -1, -1]
+Step 55: average = 0.0, all legs matching is False
+Step 56: sensor values [1, 1, -1, -1]
+Step 56: average = 0.0, all legs matching is False
+Step 57: sensor values [1, 1, -1, -1]
+Step 57: average = 0.0, all legs matching is False
+Step 58: sensor values [1, 1, -1, 1]
+Step 58: average = 0.5, all legs matching is False
+Step 59: sensor values [-1, 1, -1, 1]
+Step 59: average = 0.0, all legs matching is False
+Step 60: sensor values [-1, -1, -1, 1]
+Step 60: average = -0.5, all legs matching is False
+Step 61: sensor values [-1, -1, -1, 1]
+Step 61: average = -0.5, all legs matching is False
+Step 62: sensor values [-1, -1, -1, 1]
+Step 62: average = -0.5, all legs matching is False
+Step 63: sensor values [-1, 1, -1, 1]
+Step 63: average = 0.0, all legs matching is False
+Step 64: sensor values [-1, -1, -1, 1]
+Step 64: average = -0.5, all legs matching is False
+Step 65: sensor values [-1, -1, -1, 1]
+Step 65: average = -0.5, all legs matching is False
+Step 66: sensor values [-1, -1, -1, 1]
+Step 66: average = -0.5, all legs matching is False
+Step 67: sensor values [1, 1, -1, -1]
+Step 67: average = 0.0, all legs matching is False
+Step 68: sensor values [1, 1, -1, -1]
+Step 68: average = 0.0, all legs matching is False
+Step 69: sensor values [1, -1, -1, -1]
+Step 69: average = -0.5, all legs matching is False
+Step 70: sensor values [1, -1, -1, -1]
+Step 70: average = -0.5, all legs matching is False
+Step 71: sensor values [1, -1, -1, -1]
+Step 71: average = -0.5, all legs matching is False
+Step 72: sensor values [1, -1, -1, -1]
+Step 72: average = -0.5, all legs matching is False
+Step 73: sensor values [1, -1, -1, -1]
+Step 73: average = -0.5, all legs matching is False
+Step 74: sensor values [1, -1, -1, -1]
+Step 74: average = -0.5, all legs matching is False
+Step 75: sensor values [1, 1, -1, -1]
+Step 75: average = 0.0, all legs matching is False
+Step 76: sensor values [1, -1, -1, -1]
+Step 76: average = -0.5, all legs matching is False
+Step 77: sensor values [1, -1, 1, -1]
+Step 77: average = 0.0, all legs matching is False
+Step 78: sensor values [1, 1, 1, -1]
+Step 78: average = 0.5, all legs matching is False
+Step 79: sensor values [-1, 1, 1, -1]
+Step 79: average = 0.0, all legs matching is False
+Step 80: sensor values [-1, -1, 1, -1]
+Step 80: average = -0.5, all legs matching is False
+Step 81: sensor values [-1, -1, 1, -1]
+Step 81: average = -0.5, all legs matching is False
+Step 82: sensor values [-1, -1, 1, -1]
+Step 82: average = -0.5, all legs matching is False
+Step 83: sensor values [-1, -1, 1, -1]
+Step 83: average = -0.5, all legs matching is False
+Step 84: sensor values [-1, -1, 1, -1]
+Step 84: average = -0.5, all legs matching is False
+Step 85: sensor values [-1, -1, 1, -1]
+Step 85: average = -0.5, all legs matching is False
+Step 86: sensor values [-1, -1, 1, -1]
+Step 86: average = -0.5, all legs matching is False
+Step 87: sensor values [-1, -1, -1, -1]
+Step 87: average = -1.0, all legs matching is True
+Step 88: sensor values [-1, -1, -1, -1]
+Step 88: average = -1.0, all legs matching is True
+Step 89: sensor values [-1, -1, -1, -1]
+Step 89: average = -1.0, all legs matching is True
+Step 90: sensor values [-1, -1, -1, -1]
+Step 90: average = -1.0, all legs matching is True
+Step 91: sensor values [-1, -1, -1, -1]
+Step 91: average = -1.0, all legs matching is True
+Step 92: sensor values [-1, -1, -1, -1]
+Step 92: average = -1.0, all legs matching is True
+Step 93: sensor values [-1, -1, -1, -1]
+Step 93: average = -1.0, all legs matching is True
+Step 94: sensor values [-1, 1, -1, -1]
+Step 94: average = -0.5, all legs matching is False
+Step 95: sensor values [-1, 1, -1, -1]
+Step 95: average = -0.5, all legs matching is False
+Step 96: sensor values [-1, -1, -1, -1]
+Step 96: average = -1.0, all legs matching is True
+Step 97: sensor values [-1, -1, -1, -1]
+Step 97: average = -1.0, all legs matching is True
+Step 98: sensor values [-1, -1, -1, -1]
+Step 98: average = -1.0, all legs matching is True
+Step 99: sensor values [-1, -1, -1, -1]
+Step 99: average = -1.0, all legs matching is True
+Step 100: sensor values [1, -1, -1, -1]
+Step 100: average = -0.5, all legs matching is False
+Step 101: sensor values [1, 1, -1, -1]
+Step 101: average = 0.0, all legs matching is False
+Step 102: sensor values [1, 1, -1, -1]
+Step 102: average = 0.0, all legs matching is False
+Step 103: sensor values [1, 1, -1, -1]
+Step 103: average = 0.0, all legs matching is False
+Step 104: sensor values [1, 1, -1, -1]
+Step 104: average = 0.0, all legs matching is False
+Step 105: sensor values [1, 1, -1, -1]
+Step 105: average = 0.0, all legs matching is False
+Step 106: sensor values [1, 1, -1, -1]
+Step 106: average = 0.0, all legs matching is False
+Step 107: sensor values [1, 1, -1, -1]
+Step 107: average = 0.0, all legs matching is False
+Step 108: sensor values [1, 1, -1, -1]
+Step 108: average = 0.0, all legs matching is False
+Step 109: sensor values [1, -1, 1, -1]
+Step 109: average = 0.0, all legs matching is False
+Step 110: sensor values [1, -1, 1, -1]
+Step 110: average = 0.0, all legs matching is False
+Step 111: sensor values [-1, -1, 1, -1]
+Step 111: average = -0.5, all legs matching is False
+Step 112: sensor values [-1, 1, 1, -1]
+Step 112: average = 0.0, all legs matching is False
+Step 113: sensor values [-1, 1, 1, -1]
+Step 113: average = 0.0, all legs matching is False
+Step 114: sensor values [-1, 1, 1, -1]
+Step 114: average = 0.0, all legs matching is False
+Step 115: sensor values [-1, 1, 1, -1]
+Step 115: average = 0.0, all legs matching is False
+Step 116: sensor values [-1, 1, 1, -1]
+Step 116: average = 0.0, all legs matching is False
+Step 117: sensor values [-1, 1, 1, -1]
+Step 117: average = 0.0, all legs matching is False
+Step 118: sensor values [-1, 1, 1, -1]
+Step 118: average = 0.0, all legs matching is False
+Step 119: sensor values [-1, 1, 1, -1]
+Step 119: average = 0.0, all legs matching is False
+Step 120: sensor values [-1, -1, 1, 1]
+Step 120: average = 0.0, all legs matching is False
+Step 121: sensor values [-1, -1, -1, 1]
+Step 121: average = -0.5, all legs matching is False
+Step 122: sensor values [-1, -1, -1, 1]
+Step 122: average = -0.5, all legs matching is False
+Step 123: sensor values [-1, -1, -1, 1]
+Step 123: average = -0.5, all legs matching is False
+Step 124: sensor values [-1, -1, -1, 1]
+Step 124: average = -0.5, all legs matching is False
+Step 125: sensor values [-1, -1, -1, 1]
+Step 125: average = -0.5, all legs matching is False
+Step 126: sensor values [-1, -1, -1, 1]
+Step 126: average = -0.5, all legs matching is False
+Step 127: sensor values [-1, -1, -1, 1]
+Step 127: average = -0.5, all legs matching is False
+Step 128: sensor values [-1, 1, -1, 1]
+Step 128: average = 0.0, all legs matching is False
+Step 129: sensor values [-1, 1, -1, 1]
+Step 129: average = 0.0, all legs matching is False
+Step 130: sensor values [1, 1, -1, 1]
+Step 130: average = 0.5, all legs matching is False
+Step 131: sensor values [1, -1, -1, 1]
+Step 131: average = 0.0, all legs matching is False
+Step 132: sensor values [1, -1, -1, 1]
+Step 132: average = 0.0, all legs matching is False
+Step 133: sensor values [1, -1, -1, 1]
+Step 133: average = 0.0, all legs matching is False
+Step 134: sensor values [1, -1, -1, 1]
+Step 134: average = 0.0, all legs matching is False
+Step 135: sensor values [1, -1, -1, 1]
+Step 135: average = 0.0, all legs matching is False
+Step 136: sensor values [-1, -1, -1, 1]
+Step 136: average = -0.5, all legs matching is False
+Step 137: sensor values [1, -1, -1, -1]
+Step 137: average = -0.5, all legs matching is False
+Step 138: sensor values [1, -1, -1, -1]
+Step 138: average = -0.5, all legs matching is False
+Step 139: sensor values [1, -1, -1, -1]
+Step 139: average = -0.5, all legs matching is False
+Step 140: sensor values [-1, -1, -1, -1]
+Step 140: average = -1.0, all legs matching is True
+Step 141: sensor values [1, -1, -1, -1]
+Step 141: average = -0.5, all legs matching is False
+Step 142: sensor values [1, -1, -1, -1]
+Step 142: average = -0.5, all legs matching is False
+Step 143: sensor values [1, -1, -1, -1]
+Step 143: average = -0.5, all legs matching is False
+Step 144: sensor values [1, 1, -1, -1]
+Step 144: average = 0.0, all legs matching is False
+Step 145: sensor values [1, 1, -1, -1]
+Step 145: average = 0.0, all legs matching is False
+Step 146: sensor values [1, 1, -1, -1]
+Step 146: average = 0.0, all legs matching is False
+Step 147: sensor values [1, -1, -1, -1]
+Step 147: average = -0.5, all legs matching is False
+Step 148: sensor values [-1, -1, -1, -1]
+Step 148: average = -1.0, all legs matching is True
+Step 149: sensor values [-1, -1, -1, -1]
+Step 149: average = -1.0, all legs matching is True
+Step 150: sensor values [-1, 1, -1, -1]
+Step 150: average = -0.5, all legs matching is False
+Step 151: sensor values [-1, 1, -1, -1]
+Step 151: average = -0.5, all legs matching is False
+Step 152: sensor values [-1, -1, -1, -1]
+Step 152: average = -1.0, all legs matching is True
+Step 153: sensor values [-1, -1, 1, -1]
+Step 153: average = -0.5, all legs matching is False
+Step 154: sensor values [-1, -1, 1, -1]
+Step 154: average = -0.5, all legs matching is False
+Step 155: sensor values [-1, -1, 1, -1]
+Step 155: average = -0.5, all legs matching is False
+Step 156: sensor values [-1, -1, 1, -1]
+Step 156: average = -0.5, all legs matching is False
+Step 157: sensor values [-1, -1, 1, -1]
+Step 157: average = -0.5, all legs matching is False
+Step 158: sensor values [-1, 1, 1, -1]
+Step 158: average = 0.0, all legs matching is False
+Step 159: sensor values [-1, 1, 1, -1]
+Step 159: average = 0.0, all legs matching is False
+Step 160: sensor values [-1, 1, 1, -1]
+Step 160: average = 0.0, all legs matching is False
+Step 161: sensor values [-1, 1, -1, -1]
+Step 161: average = -0.5, all legs matching is False
+Step 162: sensor values [-1, -1, -1, -1]
+Step 162: average = -1.0, all legs matching is True
+Step 163: sensor values [-1, -1, -1, -1]
+Step 163: average = -1.0, all legs matching is True
+Step 164: sensor values [-1, -1, -1, -1]
+Step 164: average = -1.0, all legs matching is True
+Step 165: sensor values [-1, -1, -1, -1]
+Step 165: average = -1.0, all legs matching is True
+Step 166: sensor values [-1, -1, -1, -1]
+Step 166: average = -1.0, all legs matching is True
+Step 167: sensor values [-1, -1, -1, -1]
+Step 167: average = -1.0, all legs matching is True
+Step 168: sensor values [-1, -1, -1, -1]
+Step 168: average = -1.0, all legs matching is True
+Step 169: sensor values [-1, -1, -1, -1]
+Step 169: average = -1.0, all legs matching is True
+Step 170: sensor values [-1, -1, -1, -1]
+Step 170: average = -1.0, all legs matching is True
+Step 171: sensor values [-1, -1, -1, -1]
+Step 171: average = -1.0, all legs matching is True
+Step 172: sensor values [-1, -1, -1, -1]
+Step 172: average = -1.0, all legs matching is True
+Step 173: sensor values [-1, 1, -1, -1]
+Step 173: average = -0.5, all legs matching is False
+Step 174: sensor values [-1, 1, -1, -1]
+Step 174: average = -0.5, all legs matching is False
+Step 175: sensor values [-1, 1, -1, -1]
+Step 175: average = -0.5, all legs matching is False
+Step 176: sensor values [1, -1, -1, -1]
+Step 176: average = -0.5, all legs matching is False
+Step 177: sensor values [1, -1, -1, -1]
+Step 177: average = -0.5, all legs matching is False
+Step 178: sensor values [1, -1, -1, -1]
+Step 178: average = -0.5, all legs matching is False
+Step 179: sensor values [1, -1, -1, -1]
+Step 179: average = -0.5, all legs matching is False
+Step 180: sensor values [1, -1, -1, -1]
+Step 180: average = -0.5, all legs matching is False
+Step 181: sensor values [1, -1, -1, -1]
+Step 181: average = -0.5, all legs matching is False
+Step 182: sensor values [1, -1, -1, -1]
+Step 182: average = -0.5, all legs matching is False
+Step 183: sensor values [1, -1, -1, -1]
+Step 183: average = -0.5, all legs matching is False
+Step 184: sensor values [1, -1, -1, -1]
+Step 184: average = -0.5, all legs matching is False
+Step 185: sensor values [1, -1, -1, -1]
+Step 185: average = -0.5, all legs matching is False
+Step 186: sensor values [1, 1, -1, -1]
+Step 186: average = 0.0, all legs matching is False
+Step 187: sensor values [1, 1, -1, -1]
+Step 187: average = 0.0, all legs matching is False
+Step 188: sensor values [1, 1, -1, -1]
+Step 188: average = 0.0, all legs matching is False
+Step 189: sensor values [1, 1, -1, -1]
+Step 189: average = 0.0, all legs matching is False
+Step 190: sensor values [1, 1, -1, -1]
+Step 190: average = 0.0, all legs matching is False
+Step 191: sensor values [1, 1, -1, -1]
+Step 191: average = 0.0, all legs matching is False
+Step 192: sensor values [1, 1, 1, -1]
+Step 192: average = 0.5, all legs matching is False
+Step 193: sensor values [-1, -1, 1, -1]
+Step 193: average = -0.5, all legs matching is False
+Step 194: sensor values [-1, -1, 1, -1]
+Step 194: average = -0.5, all legs matching is False
+Step 195: sensor values [-1, 1, 1, -1]
+Step 195: average = 0.0, all legs matching is False
+Step 196: sensor values [-1, 1, 1, -1]
+Step 196: average = 0.0, all legs matching is False
+Step 197: sensor values [-1, 1, 1, -1]
+Step 197: average = 0.0, all legs matching is False
+Step 198: sensor values [-1, 1, 1, -1]
+Step 198: average = 0.0, all legs matching is False
+Step 199: sensor values [-1, 1, -1, 1]
+Step 199: average = 0.0, all legs matching is False
+Step 200: sensor values [-1, -1, -1, 1]
+Step 200: average = -0.5, all legs matching is False
+Step 201: sensor values [-1, -1, -1, 1]
+Step 201: average = -0.5, all legs matching is False
+Step 202: sensor values [-1, 1, -1, 1]
+Step 202: average = 0.0, all legs matching is False
+Step 203: sensor values [-1, 1, -1, 1]
+Step 203: average = 0.0, all legs matching is False
+Step 204: sensor values [-1, -1, -1, 1]
+Step 204: average = -0.5, all legs matching is False
+Step 205: sensor values [-1, -1, -1, 1]
+Step 205: average = -0.5, all legs matching is False
+Step 206: sensor values [-1, -1, -1, 1]
+Step 206: average = -0.5, all legs matching is False
+Step 207: sensor values [-1, -1, -1, 1]
+Step 207: average = -0.5, all legs matching is False
+Step 208: sensor values [-1, -1, -1, 1]
+Step 208: average = -0.5, all legs matching is False
+Step 209: sensor values [-1, 1, -1, -1]
+Step 209: average = -0.5, all legs matching is False
+Step 210: sensor values [-1, 1, -1, -1]
+Step 210: average = -0.5, all legs matching is False
+Step 211: sensor values [-1, -1, -1, -1]
+Step 211: average = -1.0, all legs matching is True
+Step 212: sensor values [-1, -1, -1, -1]
+Step 212: average = -1.0, all legs matching is True
+Step 213: sensor values [-1, -1, -1, -1]
+Step 213: average = -1.0, all legs matching is True
+Step 214: sensor values [-1, -1, -1, -1]
+Step 214: average = -1.0, all legs matching is True
+Step 215: sensor values [-1, -1, -1, -1]
+Step 215: average = -1.0, all legs matching is True
+Step 216: sensor values [-1, -1, -1, -1]
+Step 216: average = -1.0, all legs matching is True
+Step 217: sensor values [-1, -1, -1, -1]
+Step 217: average = -1.0, all legs matching is True
+Step 218: sensor values [-1, -1, -1, -1]
+Step 218: average = -1.0, all legs matching is True
+Step 219: sensor values [-1, -1, -1, -1]
+Step 219: average = -1.0, all legs matching is True
+Step 220: sensor values [-1, -1, -1, -1]
+Step 220: average = -1.0, all legs matching is True
+Step 221: sensor values [-1, 1, -1, -1]
+Step 221: average = -0.5, all legs matching is False
+Step 222: sensor values [1, 1, -1, -1]
+Step 222: average = 0.0, all legs matching is False
+Step 223: sensor values [1, 1, -1, -1]
+Step 223: average = 0.0, all legs matching is False
+Step 224: sensor values [1, 1, -1, -1]
+Step 224: average = 0.0, all legs matching is False
+Step 225: sensor values [1, 1, -1, -1]
+Step 225: average = 0.0, all legs matching is False
+Step 226: sensor values [1, 1, -1, -1]
+Step 226: average = 0.0, all legs matching is False
+Step 227: sensor values [1, 1, 1, -1]
+Step 227: average = 0.5, all legs matching is False
+Step 228: sensor values [1, 1, 1, -1]
+Step 228: average = 0.5, all legs matching is False
+Step 229: sensor values [1, -1, 1, -1]
+Step 229: average = 0.0, all legs matching is False
+Step 230: sensor values [1, -1, 1, -1]
+Step 230: average = 0.0, all legs matching is False
+Step 231: sensor values [-1, -1, 1, -1]
+Step 231: average = -0.5, all legs matching is False
+Step 232: sensor values [-1, 1, 1, -1]
+Step 232: average = 0.0, all legs matching is False
+Step 233: sensor values [-1, 1, 1, -1]
+Step 233: average = 0.0, all legs matching is False
+Step 234: sensor values [-1, 1, 1, -1]
+Step 234: average = 0.0, all legs matching is False
+Step 235: sensor values [-1, 1, 1, -1]
+Step 235: average = 0.0, all legs matching is False
+Step 236: sensor values [-1, 1, 1, -1]
+Step 236: average = 0.0, all legs matching is False
+Step 237: sensor values [-1, 1, -1, -1]
+Step 237: average = -0.5, all legs matching is False
+Step 238: sensor values [-1, 1, -1, -1]
+Step 238: average = -0.5, all legs matching is False
+Step 239: sensor values [-1, -1, -1, -1]
+Step 239: average = -1.0, all legs matching is True
+Step 240: sensor values [-1, -1, -1, -1]
+Step 240: average = -1.0, all legs matching is True
+Step 241: sensor values [-1, -1, -1, -1]
+Step 241: average = -1.0, all legs matching is True
+Step 242: sensor values [-1, -1, -1, -1]
+Step 242: average = -1.0, all legs matching is True
+Step 243: sensor values [-1, -1, -1, -1]
+Step 243: average = -1.0, all legs matching is True
+Step 244: sensor values [-1, -1, -1, -1]
+Step 244: average = -1.0, all legs matching is True
+Step 245: sensor values [-1, -1, -1, -1]
+Step 245: average = -1.0, all legs matching is True
+Step 246: sensor values [-1, -1, -1, -1]
+Step 246: average = -1.0, all legs matching is True
+Step 247: sensor values [-1, 1, -1, -1]
+Step 247: average = -0.5, all legs matching is False
+Step 248: sensor values [1, 1, -1, 1]
+Step 248: average = 0.5, all legs matching is False
+Step 249: sensor values [1, -1, -1, 1]
+Step 249: average = 0.0, all legs matching is False
+Step 250: sensor values [1, -1, -1, 1]
+Step 250: average = 0.0, all legs matching is False
+Step 251: sensor values [1, -1, -1, 1]
+Step 251: average = 0.0, all legs matching is False
+Step 252: sensor values [1, -1, -1, 1]
+Step 252: average = 0.0, all legs matching is False
+Step 253: sensor values [1, -1, -1, 1]
+Step 253: average = 0.0, all legs matching is False
+Step 254: sensor values [-1, -1, -1, 1]
+Step 254: average = -0.5, all legs matching is False
+Step 255: sensor values [1, 1, -1, 1]
+Step 255: average = 0.5, all legs matching is False
+Step 256: sensor values [1, 1, -1, 1]
+Step 256: average = 0.5, all legs matching is False
+Step 257: sensor values [1, -1, -1, 1]
+Step 257: average = 0.0, all legs matching is False
+Step 258: sensor values [1, -1, -1, 1]
+Step 258: average = 0.0, all legs matching is False
+Step 259: sensor values [1, -1, -1, 1]
+Step 259: average = 0.0, all legs matching is False
+Step 260: sensor values [-1, -1, -1, 1]
+Step 260: average = -0.5, all legs matching is False
+Step 261: sensor values [1, -1, -1, 1]
+Step 261: average = 0.0, all legs matching is False
+Step 262: sensor values [1, -1, -1, -1]
+Step 262: average = -0.5, all legs matching is False
+Step 263: sensor values [1, 1, -1, -1]
+Step 263: average = 0.0, all legs matching is False
+Step 264: sensor values [1, 1, -1, -1]
+Step 264: average = 0.0, all legs matching is False
+Step 265: sensor values [1, 1, -1, -1]
+Step 265: average = 0.0, all legs matching is False
+Step 266: sensor values [1, 1, -1, -1]
+Step 266: average = 0.0, all legs matching is False
+Step 267: sensor values [1, 1, -1, -1]
+Step 267: average = 0.0, all legs matching is False
+Step 268: sensor values [1, -1, -1, -1]
+Step 268: average = -0.5, all legs matching is False
+Step 269: sensor values [1, -1, -1, -1]
+Step 269: average = -0.5, all legs matching is False
+Step 270: sensor values [-1, -1, -1, -1]
+Step 270: average = -1.0, all legs matching is True
+Step 271: sensor values [-1, 1, -1, -1]
+Step 271: average = -0.5, all legs matching is False
+Step 272: sensor values [-1, 1, -1, -1]
+Step 272: average = -0.5, all legs matching is False
+Step 273: sensor values [-1, 1, 1, -1]
+Step 273: average = 0.0, all legs matching is False
+Step 274: sensor values [-1, -1, 1, -1]
+Step 274: average = -0.5, all legs matching is False
+Step 275: sensor values [-1, -1, 1, -1]
+Step 275: average = -0.5, all legs matching is False
+Step 276: sensor values [-1, -1, 1, -1]
+Step 276: average = -0.5, all legs matching is False
+Step 277: sensor values [-1, -1, 1, -1]
+Step 277: average = -0.5, all legs matching is False
+Step 278: sensor values [-1, -1, 1, -1]
+Step 278: average = -0.5, all legs matching is False
+Step 279: sensor values [-1, -1, 1, -1]
+Step 279: average = -0.5, all legs matching is False
+Step 280: sensor values [-1, -1, 1, -1]
+Step 280: average = -0.5, all legs matching is False
+Step 281: sensor values [-1, -1, 1, -1]
+Step 281: average = -0.5, all legs matching is False
+Step 282: sensor values [-1, -1, 1, -1]
+Step 282: average = -0.5, all legs matching is False
+Step 283: sensor values [-1, -1, -1, -1]
+Step 283: average = -1.0, all legs matching is True
+Step 284: sensor values [-1, -1, -1, -1]
+Step 284: average = -1.0, all legs matching is True
+Step 285: sensor values [-1, -1, -1, -1]
+Step 285: average = -1.0, all legs matching is True
+Step 286: sensor values [-1, -1, -1, -1]
+Step 286: average = -1.0, all legs matching is True
+Step 287: sensor values [-1, -1, -1, -1]
+Step 287: average = -1.0, all legs matching is True
+Step 288: sensor values [-1, -1, -1, -1]
+Step 288: average = -1.0, all legs matching is True
+Step 289: sensor values [-1, -1, -1, -1]
+Step 289: average = -1.0, all legs matching is True
+Step 290: sensor values [-1, -1, -1, -1]
+Step 290: average = -1.0, all legs matching is True
+Step 291: sensor values [-1, -1, -1, -1]
+Step 291: average = -1.0, all legs matching is True
+Step 292: sensor values [-1, 1, -1, -1]
+Step 292: average = -0.5, all legs matching is False
+Step 293: sensor values [-1, 1, -1, -1]
+Step 293: average = -0.5, all legs matching is False
+Step 294: sensor values [-1, -1, -1, -1]
+Step 294: average = -1.0, all legs matching is True
+Step 295: sensor values [-1, -1, -1, -1]
+Step 295: average = -1.0, all legs matching is True
+Step 296: sensor values [-1, -1, -1, -1]
+Step 296: average = -1.0, all legs matching is True
+Step 297: sensor values [-1, -1, -1, -1]
+Step 297: average = -1.0, all legs matching is True
+Step 298: sensor values [-1, -1, -1, -1]
+Step 298: average = -1.0, all legs matching is True
+Step 299: sensor values [-1, 1, -1, -1]
+Step 299: average = -0.5, all legs matching is False
+Step 300: sensor values [1, 1, -1, -1]
+Step 300: average = 0.0, all legs matching is False
+Step 301: sensor values [1, -1, -1, -1]
+Step 301: average = -0.5, all legs matching is False
+Step 302: sensor values [1, -1, -1, -1]
+Step 302: average = -0.5, all legs matching is False
+Step 303: sensor values [1, -1, 1, -1]
+Step 303: average = 0.0, all legs matching is False
+Step 304: sensor values [1, -1, 1, -1]
+Step 304: average = 0.0, all legs matching is False
+Step 305: sensor values [1, -1, 1, 1]
+Step 305: average = 0.5, all legs matching is False
+Step 306: sensor values [1, 1, 1, 1]
+Step 306: average = 1.0, all legs matching is True
+Step 307: sensor values [1, 1, -1, 1]
+Step 307: average = 0.5, all legs matching is False
+Step 308: sensor values [1, 1, -1, 1]
+Step 308: average = 0.5, all legs matching is False
+Step 309: sensor values [1, -1, -1, 1]
+Step 309: average = 0.0, all legs matching is False
+Step 310: sensor values [1, -1, -1, 1]
+Step 310: average = 0.0, all legs matching is False
+Step 311: sensor values [1, -1, -1, 1]
+Step 311: average = 0.0, all legs matching is False
+Step 312: sensor values [1, -1, -1, 1]
+Step 312: average = 0.0, all legs matching is False
+Step 313: sensor values [1, 1, -1, 1]
+Step 313: average = 0.5, all legs matching is False
+Step 314: sensor values [-1, -1, -1, 1]
+Step 314: average = -0.5, all legs matching is False
+Step 315: sensor values [-1, -1, -1, 1]
+Step 315: average = -0.5, all legs matching is False
+Step 316: sensor values [-1, -1, -1, 1]
+Step 316: average = -0.5, all legs matching is False
+Step 317: sensor values [-1, 1, -1, -1]
+Step 317: average = -0.5, all legs matching is False
+Step 318: sensor values [-1, 1, -1, -1]
+Step 318: average = -0.5, all legs matching is False
+Step 319: sensor values [-1, -1, -1, -1]
+Step 319: average = -1.0, all legs matching is True
+Step 320: sensor values [-1, -1, -1, -1]
+Step 320: average = -1.0, all legs matching is True
+Step 321: sensor values [-1, -1, -1, -1]
+Step 321: average = -1.0, all legs matching is True
+Step 322: sensor values [-1, -1, -1, -1]
+Step 322: average = -1.0, all legs matching is True
+Step 323: sensor values [1, -1, -1, -1]
+Step 323: average = -0.5, all legs matching is False
+Step 324: sensor values [1, -1, -1, -1]
+Step 324: average = -0.5, all legs matching is False
+Step 325: sensor values [1, 1, -1, -1]
+Step 325: average = 0.0, all legs matching is False
+Step 326: sensor values [1, 1, 1, -1]
+Step 326: average = 0.5, all legs matching is False
+Step 327: sensor values [1, 1, 1, -1]
+Step 327: average = 0.5, all legs matching is False
+Step 328: sensor values [1, 1, 1, -1]
+Step 328: average = 0.5, all legs matching is False
+Step 329: sensor values [1, -1, 1, -1]
+Step 329: average = 0.0, all legs matching is False
+Step 330: sensor values [-1, -1, 1, -1]
+Step 330: average = -0.5, all legs matching is False
+Step 331: sensor values [-1, -1, 1, -1]
+Step 331: average = -0.5, all legs matching is False
+Step 332: sensor values [-1, -1, 1, -1]
+Step 332: average = -0.5, all legs matching is False
+Step 333: sensor values [-1, -1, 1, -1]
+Step 333: average = -0.5, all legs matching is False
+Step 334: sensor values [-1, -1, -1, -1]
+Step 334: average = -1.0, all legs matching is True
+Step 335: sensor values [-1, -1, 1, -1]
+Step 335: average = -0.5, all legs matching is False
+Step 336: sensor values [-1, -1, 1, -1]
+Step 336: average = -0.5, all legs matching is False
+Step 337: sensor values [-1, -1, 1, -1]
+Step 337: average = -0.5, all legs matching is False
+Step 338: sensor values [-1, -1, 1, -1]
+Step 338: average = -0.5, all legs matching is False
+Step 339: sensor values [-1, -1, -1, -1]
+Step 339: average = -1.0, all legs matching is True
+Step 340: sensor values [-1, -1, -1, -1]
+Step 340: average = -1.0, all legs matching is True
+Step 341: sensor values [-1, -1, -1, -1]
+Step 341: average = -1.0, all legs matching is True
+Step 342: sensor values [1, 1, -1, -1]
+Step 342: average = 0.0, all legs matching is False
+Step 343: sensor values [1, 1, -1, -1]
+Step 343: average = 0.0, all legs matching is False
+Step 344: sensor values [1, 1, -1, -1]
+Step 344: average = 0.0, all legs matching is False
+Step 345: sensor values [1, 1, -1, -1]
+Step 345: average = 0.0, all legs matching is False
+Step 346: sensor values [1, 1, -1, -1]
+Step 346: average = 0.0, all legs matching is False
+Step 347: sensor values [1, 1, -1, -1]
+Step 347: average = 0.0, all legs matching is False
+Step 348: sensor values [1, 1, -1, -1]
+Step 348: average = 0.0, all legs matching is False
+Step 349: sensor values [1, 1, -1, -1]
+Step 349: average = 0.0, all legs matching is False
+Step 350: sensor values [1, 1, -1, -1]
+Step 350: average = 0.0, all legs matching is False
+Step 351: sensor values [1, 1, -1, -1]
+Step 351: average = 0.0, all legs matching is False
+Step 352: sensor values [-1, 1, -1, -1]
+Step 352: average = -0.5, all legs matching is False
+Step 353: sensor values [1, 1, -1, -1]
+Step 353: average = 0.0, all legs matching is False
+Step 354: sensor values [1, 1, -1, -1]
+Step 354: average = 0.0, all legs matching is False
+Step 355: sensor values [1, -1, -1, -1]
+Step 355: average = -0.5, all legs matching is False
+Step 356: sensor values [1, 1, -1, -1]
+Step 356: average = 0.0, all legs matching is False
+Step 357: sensor values [1, 1, -1, -1]
+Step 357: average = 0.0, all legs matching is False
+Step 358: sensor values [1, -1, -1, -1]
+Step 358: average = -0.5, all legs matching is False
+Step 359: sensor values [1, -1, -1, -1]
+Step 359: average = -0.5, all legs matching is False
+Step 360: sensor values [1, -1, 1, -1]
+Step 360: average = 0.0, all legs matching is False
+Step 361: sensor values [1, -1, 1, -1]
+Step 361: average = 0.0, all legs matching is False
+Step 362: sensor values [-1, 1, 1, -1]
+Step 362: average = 0.0, all legs matching is False
+Step 363: sensor values [-1, 1, 1, -1]
+Step 363: average = 0.0, all legs matching is False
+Step 364: sensor values [-1, 1, 1, -1]
+Step 364: average = 0.0, all legs matching is False
+Step 365: sensor values [-1, 1, 1, -1]
+Step 365: average = 0.0, all legs matching is False
+Step 366: sensor values [-1, 1, 1, -1]
+Step 366: average = 0.0, all legs matching is False
+Step 367: sensor values [-1, 1, 1, 1]
+Step 367: average = 0.5, all legs matching is False
+Step 368: sensor values [-1, 1, -1, 1]
+Step 368: average = 0.0, all legs matching is False
+Step 369: sensor values [-1, 1, 1, 1]
+Step 369: average = 0.5, all legs matching is False
+Step 370: sensor values [-1, -1, -1, 1]
+Step 370: average = -0.5, all legs matching is False
+Step 371: sensor values [-1, -1, -1, 1]
+Step 371: average = -0.5, all legs matching is False
+Step 372: sensor values [-1, -1, -1, 1]
+Step 372: average = -0.5, all legs matching is False
+Step 373: sensor values [-1, -1, -1, 1]
+Step 373: average = -0.5, all legs matching is False
+Step 374: sensor values [-1, -1, -1, 1]
+Step 374: average = -0.5, all legs matching is False
+Step 375: sensor values [-1, -1, -1, 1]
+Step 375: average = -0.5, all legs matching is False
+Step 376: sensor values [-1, -1, -1, -1]
+Step 376: average = -1.0, all legs matching is True
+Step 377: sensor values [-1, -1, -1, -1]
+Step 377: average = -1.0, all legs matching is True
+Step 378: sensor values [-1, 1, -1, -1]
+Step 378: average = -0.5, all legs matching is False
+Step 379: sensor values [-1, 1, -1, -1]
+Step 379: average = -0.5, all legs matching is False
+Step 380: sensor values [-1, -1, -1, -1]
+Step 380: average = -1.0, all legs matching is True
+Step 381: sensor values [-1, -1, -1, -1]
+Step 381: average = -1.0, all legs matching is True
+Step 382: sensor values [-1, -1, -1, -1]
+Step 382: average = -1.0, all legs matching is True
+Step 383: sensor values [-1, -1, -1, -1]
+Step 383: average = -1.0, all legs matching is True
+Step 384: sensor values [-1, -1, -1, -1]
+Step 384: average = -1.0, all legs matching is True
+Step 385: sensor values [1, 1, -1, -1]
+Step 385: average = 0.0, all legs matching is False
+Step 386: sensor values [1, 1, -1, -1]
+Step 386: average = 0.0, all legs matching is False
+Step 387: sensor values [1, 1, -1, -1]
+Step 387: average = 0.0, all legs matching is False
+Step 388: sensor values [1, 1, -1, -1]
+Step 388: average = 0.0, all legs matching is False
+Step 389: sensor values [1, 1, -1, -1]
+Step 389: average = 0.0, all legs matching is False
+Step 390: sensor values [1, 1, -1, -1]
+Step 390: average = 0.0, all legs matching is False
+Step 391: sensor values [1, 1, -1, -1]
+Step 391: average = 0.0, all legs matching is False
+Step 392: sensor values [1, 1, -1, -1]
+Step 392: average = 0.0, all legs matching is False
+Step 393: sensor values [1, -1, -1, -1]
+Step 393: average = -0.5, all legs matching is False
+Step 394: sensor values [1, -1, -1, -1]
+Step 394: average = -0.5, all legs matching is False
+Step 395: sensor values [1, -1, -1, -1]
+Step 395: average = -0.5, all legs matching is False
+Step 396: sensor values [1, 1, -1, -1]
+Step 396: average = 0.0, all legs matching is False
+Step 397: sensor values [1, 1, -1, -1]
+Step 397: average = 0.0, all legs matching is False
+Step 398: sensor values [-1, -1, -1, -1]
+Step 398: average = -1.0, all legs matching is True
+Step 399: sensor values [-1, -1, 1, -1]
+Step 399: average = -0.5, all legs matching is False
+Step 400: sensor values [-1, -1, 1, -1]
+Step 400: average = -0.5, all legs matching is False
+Step 401: sensor values [-1, -1, 1, -1]
+Step 401: average = -0.5, all legs matching is False
+Step 402: sensor values [-1, -1, 1, -1]
+Step 402: average = -0.5, all legs matching is False
+Step 403: sensor values [-1, -1, 1, -1]
+Step 403: average = -0.5, all legs matching is False
+Step 404: sensor values [-1, 1, 1, -1]
+Step 404: average = 0.0, all legs matching is False
+Step 405: sensor values [-1, 1, 1, -1]
+Step 405: average = 0.0, all legs matching is False
+Step 406: sensor values [-1, 1, 1, -1]
+Step 406: average = 0.0, all legs matching is False
+Step 407: sensor values [-1, 1, 1, -1]
+Step 407: average = 0.0, all legs matching is False
+Step 408: sensor values [-1, 1, 1, -1]
+Step 408: average = 0.0, all legs matching is False
+Step 409: sensor values [-1, 1, 1, -1]
+Step 409: average = 0.0, all legs matching is False
+Step 410: sensor values [-1, 1, -1, -1]
+Step 410: average = -0.5, all legs matching is False
+Step 411: sensor values [-1, 1, -1, -1]
+Step 411: average = -0.5, all legs matching is False
+Step 412: sensor values [-1, -1, -1, -1]
+Step 412: average = -1.0, all legs matching is True
+Step 413: sensor values [-1, -1, -1, -1]
+Step 413: average = -1.0, all legs matching is True
+Step 414: sensor values [-1, -1, -1, -1]
+Step 414: average = -1.0, all legs matching is True
+Step 415: sensor values [-1, -1, -1, -1]
+Step 415: average = -1.0, all legs matching is True
+Step 416: sensor values [-1, -1, -1, -1]
+Step 416: average = -1.0, all legs matching is True
+Step 417: sensor values [-1, -1, -1, -1]
+Step 417: average = -1.0, all legs matching is True
+Step 418: sensor values [-1, -1, -1, -1]
+Step 418: average = -1.0, all legs matching is True
+Step 419: sensor values [-1, -1, -1, -1]
+Step 419: average = -1.0, all legs matching is True
+Step 420: sensor values [-1, 1, -1, -1]
+Step 420: average = -0.5, all legs matching is False
+Step 421: sensor values [-1, 1, -1, 1]
+Step 421: average = 0.0, all legs matching is False
+Step 422: sensor values [-1, -1, -1, 1]
+Step 422: average = -0.5, all legs matching is False
+Step 423: sensor values [-1, -1, -1, 1]
+Step 423: average = -0.5, all legs matching is False
+Step 424: sensor values [-1, -1, -1, 1]
+Step 424: average = -0.5, all legs matching is False
+Step 425: sensor values [-1, 1, -1, 1]
+Step 425: average = 0.0, all legs matching is False
+Step 426: sensor values [1, 1, -1, 1]
+Step 426: average = 0.5, all legs matching is False
+Step 427: sensor values [1, -1, -1, 1]
+Step 427: average = 0.0, all legs matching is False
+Step 428: sensor values [1, -1, -1, 1]
+Step 428: average = 0.0, all legs matching is False
+Step 429: sensor values [1, -1, -1, 1]
+Step 429: average = 0.0, all legs matching is False
+Step 430: sensor values [-1, -1, -1, 1]
+Step 430: average = -0.5, all legs matching is False
+Step 431: sensor values [-1, -1, -1, 1]
+Step 431: average = -0.5, all legs matching is False
+Step 432: sensor values [-1, -1, -1, -1]
+Step 432: average = -1.0, all legs matching is True
+Step 433: sensor values [1, 1, -1, -1]
+Step 433: average = 0.0, all legs matching is False
+Step 434: sensor values [1, 1, -1, -1]
+Step 434: average = 0.0, all legs matching is False
+Step 435: sensor values [1, 1, -1, -1]
+Step 435: average = 0.0, all legs matching is False
+Step 436: sensor values [1, 1, -1, -1]
+Step 436: average = 0.0, all legs matching is False
+Step 437: sensor values [1, 1, 1, -1]
+Step 437: average = 0.5, all legs matching is False
+Step 438: sensor values [1, 1, 1, -1]
+Step 438: average = 0.5, all legs matching is False
+Step 439: sensor values [-1, -1, 1, -1]
+Step 439: average = -0.5, all legs matching is False
+Step 440: sensor values [-1, -1, 1, -1]
+Step 440: average = -0.5, all legs matching is False
+Step 441: sensor values [-1, -1, 1, -1]
+Step 441: average = -0.5, all legs matching is False
+Step 442: sensor values [-1, -1, 1, -1]
+Step 442: average = -0.5, all legs matching is False
+Step 443: sensor values [-1, -1, 1, -1]
+Step 443: average = -0.5, all legs matching is False
+Step 444: sensor values [-1, -1, 1, -1]
+Step 444: average = -0.5, all legs matching is False
+Step 445: sensor values [-1, -1, 1, -1]
+Step 445: average = -0.5, all legs matching is False
+Step 446: sensor values [-1, -1, 1, -1]
+Step 446: average = -0.5, all legs matching is False
+Step 447: sensor values [-1, -1, 1, -1]
+Step 447: average = -0.5, all legs matching is False
+Step 448: sensor values [-1, -1, -1, -1]
+Step 448: average = -1.0, all legs matching is True
+Step 449: sensor values [-1, -1, -1, -1]
+Step 449: average = -1.0, all legs matching is True
+Step 450: sensor values [-1, -1, -1, -1]
+Step 450: average = -1.0, all legs matching is True
+Step 451: sensor values [-1, -1, -1, -1]
+Step 451: average = -1.0, all legs matching is True
+Step 452: sensor values [-1, -1, -1, -1]
+Step 452: average = -1.0, all legs matching is True
+Step 453: sensor values [-1, -1, -1, -1]
+Step 453: average = -1.0, all legs matching is True
+Step 454: sensor values [-1, -1, -1, -1]
+Step 454: average = -1.0, all legs matching is True
+Step 455: sensor values [-1, 1, -1, -1]
+Step 455: average = -0.5, all legs matching is False
+Step 456: sensor values [-1, 1, -1, -1]
+Step 456: average = -0.5, all legs matching is False
+Step 457: sensor values [-1, -1, -1, -1]
+Step 457: average = -1.0, all legs matching is True
+Step 458: sensor values [-1, -1, -1, -1]
+Step 458: average = -1.0, all legs matching is True
+Step 459: sensor values [-1, -1, -1, -1]
+Step 459: average = -1.0, all legs matching is True
+Step 460: sensor values [-1, -1, 1, -1]
+Step 460: average = -0.5, all legs matching is False
+Step 461: sensor values [1, -1, 1, -1]
+Step 461: average = 0.0, all legs matching is False
+Step 462: sensor values [1, -1, 1, -1]
+Step 462: average = 0.0, all legs matching is False
+Step 463: sensor values [1, 1, 1, -1]
+Step 463: average = 0.5, all legs matching is False
+Step 464: sensor values [1, 1, 1, -1]
+Step 464: average = 0.5, all legs matching is False
+Step 465: sensor values [1, 1, 1, -1]
+Step 465: average = 0.5, all legs matching is False
+Step 466: sensor values [1, -1, 1, -1]
+Step 466: average = 0.0, all legs matching is False
+Step 467: sensor values [1, -1, 1, -1]
+Step 467: average = 0.0, all legs matching is False
+Step 468: sensor values [-1, -1, -1, -1]
+Step 468: average = -1.0, all legs matching is True
+Step 469: sensor values [-1, -1, -1, -1]
+Step 469: average = -1.0, all legs matching is True
+Step 470: sensor values [-1, -1, -1, -1]
+Step 470: average = -1.0, all legs matching is True
+Step 471: sensor values [-1, -1, -1, -1]
+Step 471: average = -1.0, all legs matching is True
+Step 472: sensor values [1, 1, -1, -1]
+Step 472: average = 0.0, all legs matching is False
+Step 473: sensor values [1, 1, -1, -1]
+Step 473: average = 0.0, all legs matching is False
+Step 474: sensor values [1, 1, -1, -1]
+Step 474: average = 0.0, all legs matching is False
+Step 475: sensor values [1, 1, -1, -1]
+Step 475: average = 0.0, all legs matching is False
+Step 476: sensor values [1, 1, -1, -1]
+Step 476: average = 0.0, all legs matching is False
+Step 477: sensor values [1, 1, -1, -1]
+Step 477: average = 0.0, all legs matching is False
+Step 478: sensor values [1, 1, -1, -1]
+Step 478: average = 0.0, all legs matching is False
+Step 479: sensor values [1, 1, -1, -1]
+Step 479: average = 0.0, all legs matching is False
+Step 480: sensor values [1, 1, -1, 1]
+Step 480: average = 0.5, all legs matching is False
+Step 481: sensor values [1, 1, -1, 1]
+Step 481: average = 0.5, all legs matching is False
+Step 482: sensor values [-1, -1, -1, 1]
+Step 482: average = -0.5, all legs matching is False
+Step 483: sensor values [-1, -1, -1, 1]
+Step 483: average = -0.5, all legs matching is False
+Step 484: sensor values [-1, -1, -1, 1]
+Step 484: average = -0.5, all legs matching is False
+Step 485: sensor values [-1, -1, -1, 1]
+Step 485: average = -0.5, all legs matching is False
+Step 486: sensor values [-1, 1, -1, 1]
+Step 486: average = 0.0, all legs matching is False
+Step 487: sensor values [-1, 1, -1, -1]
+Step 487: average = -0.5, all legs matching is False
+Step 488: sensor values [-1, 1, -1, -1]
+Step 488: average = -0.5, all legs matching is False
+Step 489: sensor values [-1, -1, -1, -1]
+Step 489: average = -1.0, all legs matching is True
+Step 490: sensor values [-1, -1, -1, -1]
+Step 490: average = -1.0, all legs matching is True
+Step 491: sensor values [-1, -1, -1, -1]
+Step 491: average = -1.0, all legs matching is True
+Step 492: sensor values [-1, -1, 1, -1]
+Step 492: average = -0.5, all legs matching is False
+Step 493: sensor values [-1, -1, 1, -1]
+Step 493: average = -0.5, all legs matching is False
+Step 494: sensor values [-1, -1, 1, -1]
+Step 494: average = -0.5, all legs matching is False
+Step 495: sensor values [-1, 1, 1, -1]
+Step 495: average = 0.0, all legs matching is False
+Step 496: sensor values [-1, 1, 1, -1]
+Step 496: average = 0.0, all legs matching is False
+Step 497: sensor values [-1, 1, 1, -1]
+Step 497: average = 0.0, all legs matching is False
+Step 498: sensor values [-1, -1, 1, -1]
+Step 498: average = -0.5, all legs matching is False
+Step 499: sensor values [-1, -1, 1, -1]
+Step 499: average = -0.5, all legs matching is False
+Step 500: sensor values [-1, -1, 1, -1]
+Step 500: average = -0.5, all legs matching is False
+Step 501: sensor values [-1, -1, -1, -1]
+Step 501: average = -1.0, all legs matching is True
+Step 502: sensor values [-1, -1, -1, -1]
+Step 502: average = -1.0, all legs matching is True
+Step 503: sensor values [-1, -1, -1, -1]
+Step 503: average = -1.0, all legs matching is True
+Step 504: sensor values [-1, -1, -1, -1]
+Step 504: average = -1.0, all legs matching is True
+Step 505: sensor values [-1, -1, -1, -1]
+Step 505: average = -1.0, all legs matching is True
+Step 506: sensor values [-1, -1, -1, -1]
+Step 506: average = -1.0, all legs matching is True
+Step 507: sensor values [-1, -1, -1, -1]
+Step 507: average = -1.0, all legs matching is True
+Step 508: sensor values [-1, -1, -1, -1]
+Step 508: average = -1.0, all legs matching is True
+Step 509: sensor values [-1, -1, -1, -1]
+Step 509: average = -1.0, all legs matching is True
+Step 510: sensor values [-1, -1, -1, -1]
+Step 510: average = -1.0, all legs matching is True
+Step 511: sensor values [-1, -1, -1, -1]
+Step 511: average = -1.0, all legs matching is True
+Step 512: sensor values [-1, -1, -1, -1]
+Step 512: average = -1.0, all legs matching is True
+Step 513: sensor values [1, -1, -1, -1]
+Step 513: average = -0.5, all legs matching is False
+Step 514: sensor values [1, 1, -1, -1]
+Step 514: average = 0.0, all legs matching is False
+Step 515: sensor values [1, 1, -1, -1]
+Step 515: average = 0.0, all legs matching is False
+Step 516: sensor values [1, 1, -1, -1]
+Step 516: average = 0.0, all legs matching is False
+Step 517: sensor values [1, 1, -1, -1]
+Step 517: average = 0.0, all legs matching is False
+Step 518: sensor values [1, 1, -1, -1]
+Step 518: average = 0.0, all legs matching is False
+Step 519: sensor values [1, 1, -1, -1]
+Step 519: average = 0.0, all legs matching is False
+Step 520: sensor values [1, 1, -1, -1]
+Step 520: average = 0.0, all legs matching is False
+Step 521: sensor values [1, 1, -1, -1]
+Step 521: average = 0.0, all legs matching is False
+Step 522: sensor values [1, 1, -1, -1]
+Step 522: average = 0.0, all legs matching is False
+Step 523: sensor values [1, -1, -1, -1]
+Step 523: average = -0.5, all legs matching is False
+Step 524: sensor values [1, -1, -1, 1]
+Step 524: average = 0.0, all legs matching is False
+Step 525: sensor values [1, 1, -1, 1]
+Step 525: average = 0.5, all legs matching is False
+Step 526: sensor values [-1, 1, -1, 1]
+Step 526: average = 0.0, all legs matching is False
+Step 527: sensor values [-1, -1, -1, 1]
+Step 527: average = -0.5, all legs matching is False
+Step 528: sensor values [-1, -1, 1, 1]
+Step 528: average = 0.0, all legs matching is False
+Step 529: sensor values [-1, -1, 1, 1]
+Step 529: average = 0.0, all legs matching is False
+Step 530: sensor values [-1, -1, 1, 1]
+Step 530: average = 0.0, all legs matching is False
+Step 531: sensor values [-1, -1, 1, 1]
+Step 531: average = 0.0, all legs matching is False
+Step 532: sensor values [-1, 1, 1, 1]
+Step 532: average = 0.5, all legs matching is False
+Step 533: sensor values [-1, 1, 1, 1]
+Step 533: average = 0.5, all legs matching is False
+Step 534: sensor values [-1, 1, 1, 1]
+Step 534: average = 0.5, all legs matching is False
+Step 535: sensor values [-1, 1, 1, 1]
+Step 535: average = 0.5, all legs matching is False
+Step 536: sensor values [-1, 1, 1, 1]
+Step 536: average = 0.5, all legs matching is False
+Step 537: sensor values [-1, -1, 1, 1]
+Step 537: average = 0.0, all legs matching is False
+Step 538: sensor values [-1, -1, 1, -1]
+Step 538: average = -0.5, all legs matching is False
+Step 539: sensor values [-1, -1, 1, -1]
+Step 539: average = -0.5, all legs matching is False
+Step 540: sensor values [-1, -1, 1, -1]
+Step 540: average = -0.5, all legs matching is False
+Step 541: sensor values [-1, -1, 1, -1]
+Step 541: average = -0.5, all legs matching is False
+Step 542: sensor values [-1, -1, -1, -1]
+Step 542: average = -1.0, all legs matching is True
+Step 543: sensor values [-1, -1, -1, -1]
+Step 543: average = -1.0, all legs matching is True
+Step 544: sensor values [-1, -1, -1, -1]
+Step 544: average = -1.0, all legs matching is True
+Step 545: sensor values [-1, 1, -1, -1]
+Step 545: average = -0.5, all legs matching is False
+Step 546: sensor values [-1, 1, -1, -1]
+Step 546: average = -0.5, all legs matching is False
+Step 547: sensor values [-1, 1, -1, -1]
+Step 547: average = -0.5, all legs matching is False
+Step 548: sensor values [-1, -1, -1, -1]
+Step 548: average = -1.0, all legs matching is True
+Step 549: sensor values [-1, -1, -1, -1]
+Step 549: average = -1.0, all legs matching is True
+Step 550: sensor values [-1, -1, -1, -1]
+Step 550: average = -1.0, all legs matching is True
+Step 551: sensor values [-1, -1, 1, -1]
+Step 551: average = -0.5, all legs matching is False
+Step 552: sensor values [-1, -1, 1, -1]
+Step 552: average = -0.5, all legs matching is False
+Step 553: sensor values [-1, 1, 1, -1]
+Step 553: average = 0.0, all legs matching is False
+Step 554: sensor values [-1, 1, 1, -1]
+Step 554: average = 0.0, all legs matching is False
+Step 555: sensor values [-1, 1, 1, -1]
+Step 555: average = 0.0, all legs matching is False
+Step 556: sensor values [-1, 1, 1, -1]
+Step 556: average = 0.0, all legs matching is False
+Step 557: sensor values [-1, 1, 1, -1]
+Step 557: average = 0.0, all legs matching is False
+Step 558: sensor values [1, 1, 1, -1]
+Step 558: average = 0.5, all legs matching is False
+Step 559: sensor values [1, -1, 1, -1]
+Step 559: average = 0.0, all legs matching is False
+Step 560: sensor values [1, -1, 1, -1]
+Step 560: average = 0.0, all legs matching is False
+Step 561: sensor values [1, -1, -1, -1]
+Step 561: average = -0.5, all legs matching is False
+Step 562: sensor values [1, -1, -1, -1]
+Step 562: average = -0.5, all legs matching is False
+Step 563: sensor values [1, -1, -1, -1]
+Step 563: average = -0.5, all legs matching is False
+Step 564: sensor values [1, -1, -1, -1]
+Step 564: average = -0.5, all legs matching is False
+Step 565: sensor values [1, -1, -1, -1]
+Step 565: average = -0.5, all legs matching is False
+Step 566: sensor values [1, -1, -1, -1]
+Step 566: average = -0.5, all legs matching is False
+Step 567: sensor values [1, -1, -1, -1]
+Step 567: average = -0.5, all legs matching is False
+Step 568: sensor values [1, -1, -1, -1]
+Step 568: average = -0.5, all legs matching is False
+Step 569: sensor values [1, -1, -1, -1]
+Step 569: average = -0.5, all legs matching is False
+Step 570: sensor values [1, -1, -1, -1]
+Step 570: average = -0.5, all legs matching is False
+Step 571: sensor values [1, -1, -1, -1]
+Step 571: average = -0.5, all legs matching is False
+Step 572: sensor values [1, -1, -1, -1]
+Step 572: average = -0.5, all legs matching is False
+Step 573: sensor values [-1, -1, -1, -1]
+Step 573: average = -1.0, all legs matching is True
+Step 574: sensor values [1, 1, -1, -1]
+Step 574: average = 0.0, all legs matching is False
+Step 575: sensor values [1, 1, -1, 1]
+Step 575: average = 0.5, all legs matching is False
+Step 576: sensor values [1, 1, -1, 1]
+Step 576: average = 0.5, all legs matching is False
+Step 577: sensor values [1, 1, -1, 1]
+Step 577: average = 0.5, all legs matching is False
+Step 578: sensor values [1, -1, -1, 1]
+Step 578: average = 0.0, all legs matching is False
+Step 579: sensor values [1, -1, -1, 1]
+Step 579: average = 0.0, all legs matching is False
+Step 580: sensor values [-1, -1, -1, 1]
+Step 580: average = -0.5, all legs matching is False
+Step 581: sensor values [-1, -1, -1, 1]
+Step 581: average = -0.5, all legs matching is False
+Step 582: sensor values [-1, -1, -1, 1]
+Step 582: average = -0.5, all legs matching is False
+Step 583: sensor values [-1, -1, -1, -1]
+Step 583: average = -1.0, all legs matching is True
+Step 584: sensor values [-1, 1, -1, -1]
+Step 584: average = -0.5, all legs matching is False
+Step 585: sensor values [-1, 1, -1, -1]
+Step 585: average = -0.5, all legs matching is False
+Step 586: sensor values [-1, -1, -1, -1]
+Step 586: average = -1.0, all legs matching is True
+Step 587: sensor values [-1, -1, -1, -1]
+Step 587: average = -1.0, all legs matching is True
+Step 588: sensor values [-1, -1, -1, -1]
+Step 588: average = -1.0, all legs matching is True
+Step 589: sensor values [-1, -1, -1, -1]
+Step 589: average = -1.0, all legs matching is True
+Step 590: sensor values [-1, -1, -1, -1]
+Step 590: average = -1.0, all legs matching is True
+Step 591: sensor values [-1, -1, -1, -1]
+Step 591: average = -1.0, all legs matching is True
+Step 592: sensor values [-1, 1, -1, -1]
+Step 592: average = -0.5, all legs matching is False
+Step 593: sensor values [-1, 1, -1, -1]
+Step 593: average = -0.5, all legs matching is False
+Step 594: sensor values [-1, 1, -1, -1]
+Step 594: average = -0.5, all legs matching is False
+Step 595: sensor values [-1, -1, -1, -1]
+Step 595: average = -1.0, all legs matching is True
+Step 596: sensor values [-1, -1, -1, -1]
+Step 596: average = -1.0, all legs matching is True
+Step 597: sensor values [-1, -1, -1, -1]
+Step 597: average = -1.0, all legs matching is True
+Step 598: sensor values [-1, -1, -1, -1]
+Step 598: average = -1.0, all legs matching is True
+Step 599: sensor values [-1, -1, -1, -1]
+Step 599: average = -1.0, all legs matching is True
+Step 600: sensor values [1, -1, -1, -1]
+Step 600: average = -0.5, all legs matching is False
+Step 601: sensor values [1, -1, -1, -1]
+Step 601: average = -0.5, all legs matching is False
+Step 602: sensor values [1, 1, -1, -1]
+Step 602: average = 0.0, all legs matching is False
+Step 603: sensor values [1, 1, -1, -1]
+Step 603: average = 0.0, all legs matching is False
+Step 604: sensor values [1, 1, -1, -1]
+Step 604: average = 0.0, all legs matching is False
+Step 605: sensor values [1, 1, -1, -1]
+Step 605: average = 0.0, all legs matching is False
+Step 606: sensor values [1, 1, -1, -1]
+Step 606: average = 0.0, all legs matching is False
+Step 607: sensor values [1, 1, -1, -1]
+Step 607: average = 0.0, all legs matching is False
+Step 608: sensor values [1, 1, -1, -1]
+Step 608: average = 0.0, all legs matching is False
+Step 609: sensor values [1, -1, -1, -1]
+Step 609: average = -0.5, all legs matching is False
+Step 610: sensor values [1, -1, 1, -1]
+Step 610: average = 0.0, all legs matching is False
+Step 611: sensor values [1, -1, 1, -1]
+Step 611: average = 0.0, all legs matching is False
+Step 612: sensor values [1, -1, 1, -1]
+Step 612: average = 0.0, all legs matching is False
+Step 613: sensor values [1, 1, 1, -1]
+Step 613: average = 0.5, all legs matching is False
+Step 614: sensor values [1, 1, 1, -1]
+Step 614: average = 0.5, all legs matching is False
+Step 615: sensor values [-1, -1, 1, -1]
+Step 615: average = -0.5, all legs matching is False
+Step 616: sensor values [-1, -1, 1, -1]
+Step 616: average = -0.5, all legs matching is False
+Step 617: sensor values [-1, -1, 1, -1]
+Step 617: average = -0.5, all legs matching is False
+Step 618: sensor values [-1, -1, 1, -1]
+Step 618: average = -0.5, all legs matching is False
+Step 619: sensor values [-1, -1, 1, -1]
+Step 619: average = -0.5, all legs matching is False
+Step 620: sensor values [-1, -1, 1, -1]
+Step 620: average = -0.5, all legs matching is False
+Step 621: sensor values [-1, -1, -1, -1]
+Step 621: average = -1.0, all legs matching is True
+Step 622: sensor values [-1, -1, -1, -1]
+Step 622: average = -1.0, all legs matching is True
+Step 623: sensor values [-1, -1, -1, -1]
+Step 623: average = -1.0, all legs matching is True
+Step 624: sensor values [-1, -1, -1, -1]
+Step 624: average = -1.0, all legs matching is True
+Step 625: sensor values [-1, -1, -1, -1]
+Step 625: average = -1.0, all legs matching is True
+Step 626: sensor values [-1, -1, -1, -1]
+Step 626: average = -1.0, all legs matching is True
+Step 627: sensor values [-1, -1, -1, -1]
+Step 627: average = -1.0, all legs matching is True
+Step 628: sensor values [1, -1, -1, -1]
+Step 628: average = -0.5, all legs matching is False
+Step 629: sensor values [1, 1, -1, -1]
+Step 629: average = 0.0, all legs matching is False
+Step 630: sensor values [1, 1, -1, -1]
+Step 630: average = 0.0, all legs matching is False
+Step 631: sensor values [1, 1, -1, -1]
+Step 631: average = 0.0, all legs matching is False
+Step 632: sensor values [1, 1, -1, -1]
+Step 632: average = 0.0, all legs matching is False
+Step 633: sensor values [1, 1, -1, -1]
+Step 633: average = 0.0, all legs matching is False
+Step 634: sensor values [1, 1, -1, -1]
+Step 634: average = 0.0, all legs matching is False
+Step 635: sensor values [-1, 1, -1, -1]
+Step 635: average = -0.5, all legs matching is False
+Step 636: sensor values [1, 1, -1, -1]
+Step 636: average = 0.0, all legs matching is False
+Step 637: sensor values [1, 1, -1, 1]
+Step 637: average = 0.5, all legs matching is False
+Step 638: sensor values [1, 1, -1, 1]
+Step 638: average = 0.5, all legs matching is False
+Step 639: sensor values [-1, 1, -1, 1]
+Step 639: average = 0.0, all legs matching is False
+Step 640: sensor values [-1, -1, -1, 1]
+Step 640: average = -0.5, all legs matching is False
+Step 641: sensor values [-1, -1, -1, 1]
+Step 641: average = -0.5, all legs matching is False
+Step 642: sensor values [-1, 1, -1, 1]
+Step 642: average = 0.0, all legs matching is False
+Step 643: sensor values [1, 1, -1, 1]
+Step 643: average = 0.5, all legs matching is False
+Step 644: sensor values [1, 1, 1, 1]
+Step 644: average = 1.0, all legs matching is True
+Step 645: sensor values [-1, -1, 1, 1]
+Step 645: average = 0.0, all legs matching is False
+Step 646: sensor values [-1, -1, 1, 1]
+Step 646: average = 0.0, all legs matching is False
+Step 647: sensor values [-1, -1, 1, 1]
+Step 647: average = 0.0, all legs matching is False
+Step 648: sensor values [-1, -1, 1, 1]
+Step 648: average = 0.0, all legs matching is False
+Step 649: sensor values [-1, -1, 1, 1]
+Step 649: average = 0.0, all legs matching is False
+Step 650: sensor values [-1, -1, 1, 1]
+Step 650: average = 0.0, all legs matching is False
+Step 651: sensor values [-1, -1, 1, 1]
+Step 651: average = 0.0, all legs matching is False
+Step 652: sensor values [-1, -1, 1, 1]
+Step 652: average = 0.0, all legs matching is False
+Step 653: sensor values [-1, -1, -1, -1]
+Step 653: average = -1.0, all legs matching is True
+Step 654: sensor values [-1, -1, -1, -1]
+Step 654: average = -1.0, all legs matching is True
+Step 655: sensor values [-1, -1, -1, -1]
+Step 655: average = -1.0, all legs matching is True
+Step 656: sensor values [-1, -1, 1, -1]
+Step 656: average = -0.5, all legs matching is False
+Step 657: sensor values [-1, -1, 1, -1]
+Step 657: average = -0.5, all legs matching is False
+Step 658: sensor values [-1, -1, 1, -1]
+Step 658: average = -0.5, all legs matching is False
+Step 659: sensor values [-1, -1, 1, -1]
+Step 659: average = -0.5, all legs matching is False
+Step 660: sensor values [-1, -1, 1, -1]
+Step 660: average = -0.5, all legs matching is False
+Step 661: sensor values [-1, -1, 1, -1]
+Step 661: average = -0.5, all legs matching is False
+Step 662: sensor values [-1, -1, -1, -1]
+Step 662: average = -1.0, all legs matching is True
+Step 663: sensor values [-1, -1, -1, -1]
+Step 663: average = -1.0, all legs matching is True
+Step 664: sensor values [-1, 1, -1, -1]
+Step 664: average = -0.5, all legs matching is False
+Step 665: sensor values [-1, 1, -1, -1]
+Step 665: average = -0.5, all legs matching is False
+Step 666: sensor values [-1, 1, -1, -1]
+Step 666: average = -0.5, all legs matching is False
+Step 667: sensor values [-1, 1, -1, -1]
+Step 667: average = -0.5, all legs matching is False
+Step 668: sensor values [-1, 1, -1, -1]
+Step 668: average = -0.5, all legs matching is False
+Step 669: sensor values [-1, -1, -1, -1]
+Step 669: average = -1.0, all legs matching is True
+Step 670: sensor values [-1, -1, -1, -1]
+Step 670: average = -1.0, all legs matching is True
+Step 671: sensor values [1, 1, -1, -1]
+Step 671: average = 0.0, all legs matching is False
+Step 672: sensor values [1, 1, -1, -1]
+Step 672: average = 0.0, all legs matching is False
+Step 673: sensor values [1, 1, -1, -1]
+Step 673: average = 0.0, all legs matching is False
+Step 674: sensor values [1, 1, -1, -1]
+Step 674: average = 0.0, all legs matching is False
+Step 675: sensor values [1, 1, -1, -1]
+Step 675: average = 0.0, all legs matching is False
+Step 676: sensor values [1, 1, -1, -1]
+Step 676: average = 0.0, all legs matching is False
+Step 677: sensor values [1, 1, -1, -1]
+Step 677: average = 0.0, all legs matching is False
+Step 678: sensor values [1, -1, -1, -1]
+Step 678: average = -0.5, all legs matching is False
+Step 679: sensor values [1, -1, -1, -1]
+Step 679: average = -0.5, all legs matching is False
+Step 680: sensor values [1, 1, -1, -1]
+Step 680: average = 0.0, all legs matching is False
+Step 681: sensor values [1, 1, -1, -1]
+Step 681: average = 0.0, all legs matching is False
+Step 682: sensor values [1, 1, -1, -1]
+Step 682: average = 0.0, all legs matching is False
+Step 683: sensor values [1, 1, -1, 1]
+Step 683: average = 0.5, all legs matching is False
+Step 684: sensor values [1, 1, 1, 1]
+Step 684: average = 1.0, all legs matching is True
+Step 685: sensor values [1, 1, 1, 1]
+Step 685: average = 1.0, all legs matching is True
+Step 686: sensor values [-1, -1, 1, 1]
+Step 686: average = 0.0, all legs matching is False
+Step 687: sensor values [-1, -1, 1, 1]
+Step 687: average = 0.0, all legs matching is False
+Step 688: sensor values [-1, -1, 1, 1]
+Step 688: average = 0.0, all legs matching is False
+Step 689: sensor values [-1, -1, 1, 1]
+Step 689: average = 0.0, all legs matching is False
+Step 690: sensor values [-1, -1, 1, 1]
+Step 690: average = 0.0, all legs matching is False
+Step 691: sensor values [-1, -1, 1, 1]
+Step 691: average = 0.0, all legs matching is False
+Step 692: sensor values [-1, -1, 1, -1]
+Step 692: average = -0.5, all legs matching is False
+Step 693: sensor values [-1, -1, -1, -1]
+Step 693: average = -1.0, all legs matching is True
+Step 694: sensor values [-1, -1, 1, -1]
+Step 694: average = -0.5, all legs matching is False
+Step 695: sensor values [-1, -1, 1, -1]
+Step 695: average = -0.5, all legs matching is False
+Step 696: sensor values [-1, 1, 1, -1]
+Step 696: average = 0.0, all legs matching is False
+Step 697: sensor values [-1, 1, -1, -1]
+Step 697: average = -0.5, all legs matching is False
+Step 698: sensor values [-1, -1, 1, -1]
+Step 698: average = -0.5, all legs matching is False
+Step 699: sensor values [-1, -1, -1, -1]
+Step 699: average = -1.0, all legs matching is True
+Step 700: sensor values [-1, -1, 1, -1]
+Step 700: average = -0.5, all legs matching is False
+Step 701: sensor values [-1, -1, 1, -1]
+Step 701: average = -0.5, all legs matching is False
+Step 702: sensor values [-1, -1, 1, -1]
+Step 702: average = -0.5, all legs matching is False
+Step 703: sensor values [-1, 1, 1, -1]
+Step 703: average = 0.0, all legs matching is False
+Step 704: sensor values [-1, 1, 1, -1]
+Step 704: average = 0.0, all legs matching is False
+Step 705: sensor values [-1, 1, 1, -1]
+Step 705: average = 0.0, all legs matching is False
+Step 706: sensor values [-1, 1, -1, -1]
+Step 706: average = -0.5, all legs matching is False
+Step 707: sensor values [-1, 1, -1, -1]
+Step 707: average = -0.5, all legs matching is False
+Step 708: sensor values [-1, 1, -1, -1]
+Step 708: average = -0.5, all legs matching is False
+Step 709: sensor values [-1, -1, -1, -1]
+Step 709: average = -1.0, all legs matching is True
+Step 710: sensor values [-1, -1, -1, -1]
+Step 710: average = -1.0, all legs matching is True
+Step 711: sensor values [-1, -1, -1, -1]
+Step 711: average = -1.0, all legs matching is True
+Step 712: sensor values [-1, -1, -1, -1]
+Step 712: average = -1.0, all legs matching is True
+Step 713: sensor values [-1, -1, -1, -1]
+Step 713: average = -1.0, all legs matching is True
+Step 714: sensor values [-1, 1, -1, -1]
+Step 714: average = -0.5, all legs matching is False
+Step 715: sensor values [-1, 1, -1, -1]
+Step 715: average = -0.5, all legs matching is False
+Step 716: sensor values [-1, -1, -1, -1]
+Step 716: average = -1.0, all legs matching is True
+Step 717: sensor values [-1, -1, -1, -1]
+Step 717: average = -1.0, all legs matching is True
+Step 718: sensor values [-1, -1, 1, -1]
+Step 718: average = -0.5, all legs matching is False
+Step 719: sensor values [1, -1, 1, -1]
+Step 719: average = 0.0, all legs matching is False
+Step 720: sensor values [1, -1, 1, -1]
+Step 720: average = 0.0, all legs matching is False
+Step 721: sensor values [1, -1, 1, -1]
+Step 721: average = 0.0, all legs matching is False
+Step 722: sensor values [1, -1, -1, -1]
+Step 722: average = -0.5, all legs matching is False
+Step 723: sensor values [1, -1, -1, -1]
+Step 723: average = -0.5, all legs matching is False
+Step 724: sensor values [1, 1, -1, -1]
+Step 724: average = 0.0, all legs matching is False
+Step 725: sensor values [1, 1, -1, -1]
+Step 725: average = 0.0, all legs matching is False
+Step 726: sensor values [1, 1, -1, -1]
+Step 726: average = 0.0, all legs matching is False
+Step 727: sensor values [1, 1, -1, -1]
+Step 727: average = 0.0, all legs matching is False
+Step 728: sensor values [1, 1, -1, -1]
+Step 728: average = 0.0, all legs matching is False
+Step 729: sensor values [1, 1, -1, -1]
+Step 729: average = 0.0, all legs matching is False
+Step 730: sensor values [1, 1, -1, -1]
+Step 730: average = 0.0, all legs matching is False
+Step 731: sensor values [1, 1, -1, -1]
+Step 731: average = 0.0, all legs matching is False
+Step 732: sensor values [1, 1, -1, 1]
+Step 732: average = 0.5, all legs matching is False
+Step 733: sensor values [1, 1, -1, 1]
+Step 733: average = 0.5, all legs matching is False
+Step 734: sensor values [-1, 1, 1, 1]
+Step 734: average = 0.5, all legs matching is False
+Step 735: sensor values [-1, -1, 1, 1]
+Step 735: average = 0.0, all legs matching is False
+Step 736: sensor values [-1, -1, 1, 1]
+Step 736: average = 0.0, all legs matching is False
+Step 737: sensor values [-1, -1, 1, 1]
+Step 737: average = 0.0, all legs matching is False
+Step 738: sensor values [-1, -1, 1, 1]
+Step 738: average = 0.0, all legs matching is False
+Step 739: sensor values [-1, -1, 1, 1]
+Step 739: average = 0.0, all legs matching is False
+Step 740: sensor values [-1, -1, 1, 1]
+Step 740: average = 0.0, all legs matching is False
+Step 741: sensor values [-1, -1, 1, 1]
+Step 741: average = 0.0, all legs matching is False
+Step 742: sensor values [-1, -1, -1, 1]
+Step 742: average = -0.5, all legs matching is False
+Step 743: sensor values [-1, -1, -1, 1]
+Step 743: average = -0.5, all legs matching is False
+Step 744: sensor values [-1, 1, -1, -1]
+Step 744: average = -0.5, all legs matching is False
+Step 745: sensor values [-1, 1, -1, -1]
+Step 745: average = -0.5, all legs matching is False
+Step 746: sensor values [-1, -1, -1, -1]
+Step 746: average = -1.0, all legs matching is True
+Step 747: sensor values [-1, -1, -1, -1]
+Step 747: average = -1.0, all legs matching is True
+Step 748: sensor values [-1, -1, 1, -1]
+Step 748: average = -0.5, all legs matching is False
+Step 749: sensor values [-1, -1, 1, -1]
+Step 749: average = -0.5, all legs matching is False
+Step 750: sensor values [-1, -1, 1, -1]
+Step 750: average = -0.5, all legs matching is False
+Step 751: sensor values [-1, -1, 1, -1]
+Step 751: average = -0.5, all legs matching is False
+Step 752: sensor values [-1, -1, 1, -1]
+Step 752: average = -0.5, all legs matching is False
+Step 753: sensor values [-1, 1, 1, -1]
+Step 753: average = 0.0, all legs matching is False
+Step 754: sensor values [-1, 1, 1, -1]
+Step 754: average = 0.0, all legs matching is False
+Step 755: sensor values [-1, 1, 1, -1]
+Step 755: average = 0.0, all legs matching is False
+Step 756: sensor values [-1, -1, 1, -1]
+Step 756: average = -0.5, all legs matching is False
+Step 757: sensor values [-1, -1, 1, -1]
+Step 757: average = -0.5, all legs matching is False
+Step 758: sensor values [-1, -1, 1, -1]
+Step 758: average = -0.5, all legs matching is False
+Step 759: sensor values [-1, 1, 1, -1]
+Step 759: average = 0.0, all legs matching is False
+Step 760: sensor values [-1, 1, -1, -1]
+Step 760: average = -0.5, all legs matching is False
+Step 761: sensor values [-1, -1, -1, -1]
+Step 761: average = -1.0, all legs matching is True
+Step 762: sensor values [-1, -1, -1, -1]
+Step 762: average = -1.0, all legs matching is True
+Step 763: sensor values [1, -1, -1, -1]
+Step 763: average = -0.5, all legs matching is False
+Step 764: sensor values [1, -1, -1, -1]
+Step 764: average = -0.5, all legs matching is False
+Step 765: sensor values [1, -1, -1, -1]
+Step 765: average = -0.5, all legs matching is False
+Step 766: sensor values [1, -1, -1, -1]
+Step 766: average = -0.5, all legs matching is False
+Step 767: sensor values [1, -1, -1, -1]
+Step 767: average = -0.5, all legs matching is False
+Step 768: sensor values [1, -1, -1, -1]
+Step 768: average = -0.5, all legs matching is False
+Step 769: sensor values [1, -1, -1, -1]
+Step 769: average = -0.5, all legs matching is False
+Step 770: sensor values [1, -1, -1, -1]
+Step 770: average = -0.5, all legs matching is False
+Step 771: sensor values [1, -1, -1, -1]
+Step 771: average = -0.5, all legs matching is False
+Step 772: sensor values [1, -1, -1, -1]
+Step 772: average = -0.5, all legs matching is False
+Step 773: sensor values [1, -1, -1, -1]
+Step 773: average = -0.5, all legs matching is False
+Step 774: sensor values [1, -1, -1, -1]
+Step 774: average = -0.5, all legs matching is False
+Step 775: sensor values [1, -1, -1, -1]
+Step 775: average = -0.5, all legs matching is False
+Step 776: sensor values [1, 1, -1, -1]
+Step 776: average = 0.0, all legs matching is False
+Step 777: sensor values [1, 1, -1, -1]
+Step 777: average = 0.0, all legs matching is False
+Step 778: sensor values [1, 1, -1, -1]
+Step 778: average = 0.0, all legs matching is False
+Step 779: sensor values [1, 1, -1, 1]
+Step 779: average = 0.5, all legs matching is False
+Step 780: sensor values [-1, 1, -1, 1]
+Step 780: average = 0.0, all legs matching is False
+Step 781: sensor values [-1, -1, -1, 1]
+Step 781: average = -0.5, all legs matching is False
+Step 782: sensor values [-1, -1, -1, 1]
+Step 782: average = -0.5, all legs matching is False
+Step 783: sensor values [-1, -1, -1, 1]
+Step 783: average = -0.5, all legs matching is False
+Step 784: sensor values [-1, -1, -1, 1]
+Step 784: average = -0.5, all legs matching is False
+Step 785: sensor values [-1, -1, -1, -1]
+Step 785: average = -1.0, all legs matching is True
+Step 786: sensor values [-1, 1, -1, -1]
+Step 786: average = -0.5, all legs matching is False
+Step 787: sensor values [-1, 1, -1, -1]
+Step 787: average = -0.5, all legs matching is False
+Step 788: sensor values [-1, 1, -1, -1]
+Step 788: average = -0.5, all legs matching is False
+Step 789: sensor values [-1, -1, -1, -1]
+Step 789: average = -1.0, all legs matching is True
+Step 790: sensor values [-1, -1, -1, -1]
+Step 790: average = -1.0, all legs matching is True
+Step 791: sensor values [-1, -1, -1, -1]
+Step 791: average = -1.0, all legs matching is True
+Step 792: sensor values [-1, -1, 1, -1]
+Step 792: average = -0.5, all legs matching is False
+Step 793: sensor values [-1, -1, 1, -1]
+Step 793: average = -0.5, all legs matching is False
+Step 794: sensor values [-1, -1, 1, -1]
+Step 794: average = -0.5, all legs matching is False
+Step 795: sensor values [-1, -1, 1, -1]
+Step 795: average = -0.5, all legs matching is False
+Step 796: sensor values [-1, -1, 1, -1]
+Step 796: average = -0.5, all legs matching is False
+Step 797: sensor values [-1, 1, 1, -1]
+Step 797: average = 0.0, all legs matching is False
+Step 798: sensor values [-1, 1, -1, -1]
+Step 798: average = -0.5, all legs matching is False
+Step 799: sensor values [-1, -1, -1, -1]
+Step 799: average = -1.0, all legs matching is True
+Step 800: sensor values [-1, -1, -1, -1]
+Step 800: average = -1.0, all legs matching is True
+Step 801: sensor values [-1, -1, -1, -1]
+Step 801: average = -1.0, all legs matching is True
+Step 802: sensor values [-1, -1, -1, -1]
+Step 802: average = -1.0, all legs matching is True
+Step 803: sensor values [-1, -1, -1, -1]
+Step 803: average = -1.0, all legs matching is True
+Step 804: sensor values [-1, -1, -1, -1]
+Step 804: average = -1.0, all legs matching is True
+Step 805: sensor values [-1, -1, -1, -1]
+Step 805: average = -1.0, all legs matching is True
+Step 806: sensor values [-1, -1, -1, -1]
+Step 806: average = -1.0, all legs matching is True
+Step 807: sensor values [-1, -1, 1, -1]
+Step 807: average = -0.5, all legs matching is False
+Step 808: sensor values [-1, -1, 1, -1]
+Step 808: average = -0.5, all legs matching is False
+Step 809: sensor values [-1, -1, 1, -1]
+Step 809: average = -0.5, all legs matching is False
+Step 810: sensor values [-1, 1, 1, -1]
+Step 810: average = 0.0, all legs matching is False
+Step 811: sensor values [-1, 1, 1, -1]
+Step 811: average = 0.0, all legs matching is False
+Step 812: sensor values [-1, 1, 1, -1]
+Step 812: average = 0.0, all legs matching is False
+Step 813: sensor values [-1, 1, 1, -1]
+Step 813: average = 0.0, all legs matching is False
+Step 814: sensor values [1, 1, 1, -1]
+Step 814: average = 0.5, all legs matching is False
+Step 815: sensor values [1, 1, 1, -1]
+Step 815: average = 0.5, all legs matching is False
+Step 816: sensor values [1, -1, -1, -1]
+Step 816: average = -0.5, all legs matching is False
+Step 817: sensor values [1, -1, -1, -1]
+Step 817: average = -0.5, all legs matching is False
+Step 818: sensor values [1, -1, -1, -1]
+Step 818: average = -0.5, all legs matching is False
+Step 819: sensor values [1, -1, -1, -1]
+Step 819: average = -0.5, all legs matching is False
+Step 820: sensor values [1, -1, -1, -1]
+Step 820: average = -0.5, all legs matching is False
+Step 821: sensor values [1, -1, -1, -1]
+Step 821: average = -0.5, all legs matching is False
+Step 822: sensor values [1, -1, -1, -1]
+Step 822: average = -0.5, all legs matching is False
+Step 823: sensor values [1, -1, -1, -1]
+Step 823: average = -0.5, all legs matching is False
+Step 824: sensor values [-1, -1, -1, -1]
+Step 824: average = -1.0, all legs matching is True
+Step 825: sensor values [1, -1, -1, -1]
+Step 825: average = -0.5, all legs matching is False
+Step 826: sensor values [-1, -1, -1, 1]
+Step 826: average = -0.5, all legs matching is False
+Step 827: sensor values [-1, -1, -1, 1]
+Step 827: average = -0.5, all legs matching is False
+Step 828: sensor values [1, -1, -1, 1]
+Step 828: average = 0.0, all legs matching is False
+Step 829: sensor values [1, -1, -1, 1]
+Step 829: average = 0.0, all legs matching is False
+Step 830: sensor values [1, -1, -1, 1]
+Step 830: average = 0.0, all legs matching is False
+Step 831: sensor values [1, 1, -1, 1]
+Step 831: average = 0.5, all legs matching is False
+Step 832: sensor values [1, 1, -1, 1]
+Step 832: average = 0.5, all legs matching is False
+Step 833: sensor values [1, 1, -1, 1]
+Step 833: average = 0.5, all legs matching is False
+Step 834: sensor values [1, -1, -1, 1]
+Step 834: average = 0.0, all legs matching is False
+Step 835: sensor values [-1, -1, -1, 1]
+Step 835: average = -0.5, all legs matching is False
+Step 836: sensor values [-1, -1, -1, 1]
+Step 836: average = -0.5, all legs matching is False
+Step 837: sensor values [-1, -1, -1, 1]
+Step 837: average = -0.5, all legs matching is False
+Step 838: sensor values [-1, -1, -1, -1]
+Step 838: average = -1.0, all legs matching is True
+Step 839: sensor values [-1, -1, -1, -1]
+Step 839: average = -1.0, all legs matching is True
+Step 840: sensor values [-1, 1, 1, -1]
+Step 840: average = 0.0, all legs matching is False
+Step 841: sensor values [-1, 1, 1, -1]
+Step 841: average = 0.0, all legs matching is False
+Step 842: sensor values [-1, 1, 1, -1]
+Step 842: average = 0.0, all legs matching is False
+Step 843: sensor values [-1, 1, 1, -1]
+Step 843: average = 0.0, all legs matching is False
+Step 844: sensor values [-1, 1, 1, -1]
+Step 844: average = 0.0, all legs matching is False
+Step 845: sensor values [-1, -1, 1, -1]
+Step 845: average = -0.5, all legs matching is False
+Step 846: sensor values [-1, -1, 1, -1]
+Step 846: average = -0.5, all legs matching is False
+Step 847: sensor values [-1, -1, 1, -1]
+Step 847: average = -0.5, all legs matching is False
+Step 848: sensor values [-1, -1, 1, -1]
+Step 848: average = -0.5, all legs matching is False
+Step 849: sensor values [-1, -1, -1, -1]
+Step 849: average = -1.0, all legs matching is True
+Step 850: sensor values [-1, -1, -1, -1]
+Step 850: average = -1.0, all legs matching is True
+Step 851: sensor values [-1, -1, -1, -1]
+Step 851: average = -1.0, all legs matching is True
+Step 852: sensor values [-1, -1, -1, -1]
+Step 852: average = -1.0, all legs matching is True
+Step 853: sensor values [-1, -1, -1, -1]
+Step 853: average = -1.0, all legs matching is True
+Step 854: sensor values [-1, -1, -1, -1]
+Step 854: average = -1.0, all legs matching is True
+Step 855: sensor values [-1, -1, -1, -1]
+Step 855: average = -1.0, all legs matching is True
+Step 856: sensor values [-1, -1, -1, -1]
+Step 856: average = -1.0, all legs matching is True
+Step 857: sensor values [-1, -1, -1, -1]
+Step 857: average = -1.0, all legs matching is True
+Step 858: sensor values [-1, 1, -1, -1]
+Step 858: average = -0.5, all legs matching is False
+Step 859: sensor values [-1, 1, -1, -1]
+Step 859: average = -0.5, all legs matching is False
+Step 860: sensor values [-1, -1, -1, -1]
+Step 860: average = -1.0, all legs matching is True
+Step 861: sensor values [-1, -1, -1, -1]
+Step 861: average = -1.0, all legs matching is True
+Step 862: sensor values [-1, -1, -1, -1]
+Step 862: average = -1.0, all legs matching is True
+Step 863: sensor values [-1, -1, -1, -1]
+Step 863: average = -1.0, all legs matching is True
+Step 864: sensor values [1, -1, -1, -1]
+Step 864: average = -0.5, all legs matching is False
+Step 865: sensor values [1, -1, -1, -1]
+Step 865: average = -0.5, all legs matching is False
+Step 866: sensor values [1, 1, -1, -1]
+Step 866: average = 0.0, all legs matching is False
+Step 867: sensor values [1, 1, -1, -1]
+Step 867: average = 0.0, all legs matching is False
+Step 868: sensor values [1, 1, -1, -1]
+Step 868: average = 0.0, all legs matching is False
+Step 869: sensor values [1, 1, -1, -1]
+Step 869: average = 0.0, all legs matching is False
+Step 870: sensor values [1, 1, -1, -1]
+Step 870: average = 0.0, all legs matching is False
+Step 871: sensor values [1, 1, -1, -1]
+Step 871: average = 0.0, all legs matching is False
+Step 872: sensor values [1, -1, -1, -1]
+Step 872: average = -0.5, all legs matching is False
+Step 873: sensor values [1, -1, -1, -1]
+Step 873: average = -0.5, all legs matching is False
+Step 874: sensor values [1, -1, -1, -1]
+Step 874: average = -0.5, all legs matching is False
+Step 875: sensor values [1, 1, -1, -1]
+Step 875: average = 0.0, all legs matching is False
+Step 876: sensor values [1, 1, -1, -1]
+Step 876: average = 0.0, all legs matching is False
+Step 877: sensor values [1, -1, -1, -1]
+Step 877: average = -0.5, all legs matching is False
+Step 878: sensor values [1, -1, -1, 1]
+Step 878: average = 0.0, all legs matching is False
+Step 879: sensor values [-1, -1, -1, 1]
+Step 879: average = -0.5, all legs matching is False
+Step 880: sensor values [-1, 1, -1, 1]
+Step 880: average = 0.0, all legs matching is False
+Step 881: sensor values [-1, 1, -1, 1]
+Step 881: average = 0.0, all legs matching is False
+Step 882: sensor values [-1, 1, -1, 1]
+Step 882: average = 0.0, all legs matching is False
+Step 883: sensor values [-1, 1, -1, 1]
+Step 883: average = 0.0, all legs matching is False
+Step 884: sensor values [-1, 1, -1, -1]
+Step 884: average = -0.5, all legs matching is False
+Step 885: sensor values [-1, 1, -1, -1]
+Step 885: average = -0.5, all legs matching is False
+Step 886: sensor values [-1, -1, -1, -1]
+Step 886: average = -1.0, all legs matching is True
+Step 887: sensor values [-1, -1, 1, -1]
+Step 887: average = -0.5, all legs matching is False
+Step 888: sensor values [-1, -1, 1, -1]
+Step 888: average = -0.5, all legs matching is False
+Step 889: sensor values [-1, -1, 1, -1]
+Step 889: average = -0.5, all legs matching is False
+Step 890: sensor values [-1, -1, 1, -1]
+Step 890: average = -0.5, all legs matching is False
+Step 891: sensor values [-1, -1, 1, -1]
+Step 891: average = -0.5, all legs matching is False
+Step 892: sensor values [-1, -1, 1, -1]
+Step 892: average = -0.5, all legs matching is False
+Step 893: sensor values [-1, -1, 1, -1]
+Step 893: average = -0.5, all legs matching is False
+Step 894: sensor values [-1, -1, 1, -1]
+Step 894: average = -0.5, all legs matching is False
+Step 895: sensor values [-1, -1, 1, -1]
+Step 895: average = -0.5, all legs matching is False
+Step 896: sensor values [-1, -1, 1, -1]
+Step 896: average = -0.5, all legs matching is False
+Step 897: sensor values [-1, -1, -1, -1]
+Step 897: average = -1.0, all legs matching is True
+Step 898: sensor values [-1, -1, -1, -1]
+Step 898: average = -1.0, all legs matching is True
+Step 899: sensor values [-1, -1, -1, -1]
+Step 899: average = -1.0, all legs matching is True
+Step 900: sensor values [-1, -1, -1, -1]
+Step 900: average = -1.0, all legs matching is True
+Step 901: sensor values [-1, -1, -1, -1]
+Step 901: average = -1.0, all legs matching is True
+Step 902: sensor values [-1, -1, -1, -1]
+Step 902: average = -1.0, all legs matching is True
+Step 903: sensor values [-1, -1, -1, -1]
+Step 903: average = -1.0, all legs matching is True
+Step 904: sensor values [-1, 1, -1, -1]
+Step 904: average = -0.5, all legs matching is False
+Step 905: sensor values [-1, 1, -1, -1]
+Step 905: average = -0.5, all legs matching is False
+Step 906: sensor values [-1, 1, 1, -1]
+Step 906: average = 0.0, all legs matching is False
+Step 907: sensor values [-1, -1, 1, -1]
+Step 907: average = -0.5, all legs matching is False
+Step 908: sensor values [-1, -1, 1, -1]
+Step 908: average = -0.5, all legs matching is False
+Step 909: sensor values [-1, -1, 1, -1]
+Step 909: average = -0.5, all legs matching is False
+Step 910: sensor values [-1, -1, 1, -1]
+Step 910: average = -0.5, all legs matching is False
+Step 911: sensor values [-1, -1, 1, -1]
+Step 911: average = -0.5, all legs matching is False
+Step 912: sensor values [1, 1, 1, -1]
+Step 912: average = 0.5, all legs matching is False
+Step 913: sensor values [1, 1, -1, -1]
+Step 913: average = 0.0, all legs matching is False
+Step 914: sensor values [1, 1, -1, -1]
+Step 914: average = 0.0, all legs matching is False
+Step 915: sensor values [1, -1, -1, -1]
+Step 915: average = -0.5, all legs matching is False
+Step 916: sensor values [1, -1, -1, -1]
+Step 916: average = -0.5, all legs matching is False
+Step 917: sensor values [1, -1, -1, -1]
+Step 917: average = -0.5, all legs matching is False
+Step 918: sensor values [1, -1, -1, -1]
+Step 918: average = -0.5, all legs matching is False
+Step 919: sensor values [1, -1, -1, 1]
+Step 919: average = 0.0, all legs matching is False
+Step 920: sensor values [1, -1, -1, 1]
+Step 920: average = 0.0, all legs matching is False
+Step 921: sensor values [-1, -1, -1, 1]
+Step 921: average = -0.5, all legs matching is False
+Step 922: sensor values [1, -1, -1, 1]
+Step 922: average = 0.0, all legs matching is False
+Step 923: sensor values [-1, 1, -1, 1]
+Step 923: average = 0.0, all legs matching is False
+Step 924: sensor values [1, 1, -1, 1]
+Step 924: average = 0.5, all legs matching is False
+Step 925: sensor values [1, 1, -1, 1]
+Step 925: average = 0.5, all legs matching is False
+Step 926: sensor values [1, -1, -1, 1]
+Step 926: average = 0.0, all legs matching is False
+Step 927: sensor values [-1, -1, -1, 1]
+Step 927: average = -0.5, all legs matching is False
+Step 928: sensor values [-1, -1, -1, 1]
+Step 928: average = -0.5, all legs matching is False
+Step 929: sensor values [-1, -1, -1, 1]
+Step 929: average = -0.5, all legs matching is False
+Step 930: sensor values [1, 1, -1, -1]
+Step 930: average = 0.0, all legs matching is False
+Step 931: sensor values [1, 1, -1, -1]
+Step 931: average = 0.0, all legs matching is False
+Step 932: sensor values [1, 1, -1, -1]
+Step 932: average = 0.0, all legs matching is False
+Step 933: sensor values [1, 1, -1, -1]
+Step 933: average = 0.0, all legs matching is False
+Step 934: sensor values [1, 1, -1, -1]
+Step 934: average = 0.0, all legs matching is False
+Step 935: sensor values [1, 1, -1, -1]
+Step 935: average = 0.0, all legs matching is False
+Step 936: sensor values [1, -1, -1, -1]
+Step 936: average = -0.5, all legs matching is False
+Step 937: sensor values [1, -1, -1, -1]
+Step 937: average = -0.5, all legs matching is False
+Step 938: sensor values [1, -1, 1, -1]
+Step 938: average = 0.0, all legs matching is False
+Step 939: sensor values [-1, -1, 1, -1]
+Step 939: average = -0.5, all legs matching is False
+Step 940: sensor values [-1, -1, 1, -1]
+Step 940: average = -0.5, all legs matching is False
+Step 941: sensor values [-1, 1, 1, -1]
+Step 941: average = 0.0, all legs matching is False
+Step 942: sensor values [-1, 1, 1, -1]
+Step 942: average = 0.0, all legs matching is False
+Step 943: sensor values [-1, 1, 1, -1]
+Step 943: average = 0.0, all legs matching is False
+Step 944: sensor values [-1, 1, 1, -1]
+Step 944: average = 0.0, all legs matching is False
+Step 945: sensor values [-1, 1, 1, -1]
+Step 945: average = 0.0, all legs matching is False
+Step 946: sensor values [-1, 1, 1, -1]
+Step 946: average = 0.0, all legs matching is False
+Step 947: sensor values [-1, -1, 1, -1]
+Step 947: average = -0.5, all legs matching is False
+Step 948: sensor values [-1, -1, 1, -1]
+Step 948: average = -0.5, all legs matching is False
+Step 949: sensor values [-1, -1, 1, -1]
+Step 949: average = -0.5, all legs matching is False
+Step 950: sensor values [-1, 1, -1, -1]
+Step 950: average = -0.5, all legs matching is False
+Step 951: sensor values [-1, -1, -1, -1]
+Step 951: average = -1.0, all legs matching is True
+Step 952: sensor values [-1, -1, -1, -1]
+Step 952: average = -1.0, all legs matching is True
+Step 953: sensor values [-1, -1, -1, -1]
+Step 953: average = -1.0, all legs matching is True
+Step 954: sensor values [-1, -1, -1, -1]
+Step 954: average = -1.0, all legs matching is True
+Step 955: sensor values [-1, -1, -1, -1]
+Step 955: average = -1.0, all legs matching is True
+Step 956: sensor values [-1, -1, -1, -1]
+Step 956: average = -1.0, all legs matching is True
+Step 957: sensor values [-1, -1, -1, -1]
+Step 957: average = -1.0, all legs matching is True
+Step 958: sensor values [-1, -1, -1, -1]
+Step 958: average = -1.0, all legs matching is True
+Step 959: sensor values [-1, -1, -1, -1]
+Step 959: average = -1.0, all legs matching is True
+Step 960: sensor values [-1, -1, -1, -1]
+Step 960: average = -1.0, all legs matching is True
+Step 961: sensor values [-1, 1, -1, -1]
+Step 961: average = -0.5, all legs matching is False
+Step 962: sensor values [-1, 1, -1, -1]
+Step 962: average = -0.5, all legs matching is False
+Step 963: sensor values [-1, 1, -1, -1]
+Step 963: average = -0.5, all legs matching is False
+Step 964: sensor values [-1, -1, -1, -1]
+Step 964: average = -1.0, all legs matching is True
+Step 965: sensor values [-1, -1, -1, 1]
+Step 965: average = -0.5, all legs matching is False
+Step 966: sensor values [-1, -1, -1, 1]
+Step 966: average = -0.5, all legs matching is False
+Step 967: sensor values [1, -1, -1, 1]
+Step 967: average = 0.0, all legs matching is False
+Step 968: sensor values [1, -1, -1, 1]
+Step 968: average = 0.0, all legs matching is False
+Step 969: sensor values [1, -1, -1, 1]
+Step 969: average = 0.0, all legs matching is False
+Step 970: sensor values [1, -1, -1, 1]
+Step 970: average = 0.0, all legs matching is False
+Step 971: sensor values [1, -1, -1, 1]
+Step 971: average = 0.0, all legs matching is False
+Step 972: sensor values [1, 1, -1, 1]
+Step 972: average = 0.5, all legs matching is False
+Step 973: sensor values [1, 1, -1, 1]
+Step 973: average = 0.5, all legs matching is False
+Step 974: sensor values [1, -1, -1, 1]
+Step 974: average = 0.0, all legs matching is False
+Step 975: sensor values [1, -1, -1, 1]
+Step 975: average = 0.0, all legs matching is False
+Step 976: sensor values [-1, -1, -1, 1]
+Step 976: average = -0.5, all legs matching is False
+Step 977: sensor values [-1, -1, -1, 1]
+Step 977: average = -0.5, all legs matching is False
+Step 978: sensor values [-1, -1, -1, -1]
+Step 978: average = -1.0, all legs matching is True
+Step 979: sensor values [1, 1, -1, -1]
+Step 979: average = 0.0, all legs matching is False
+Step 980: sensor values [1, 1, -1, -1]
+Step 980: average = 0.0, all legs matching is False
+Step 981: sensor values [1, 1, -1, -1]
+Step 981: average = 0.0, all legs matching is False
+Step 982: sensor values [1, 1, -1, -1]
+Step 982: average = 0.0, all legs matching is False
+Step 983: sensor values [1, 1, -1, -1]
+Step 983: average = 0.0, all legs matching is False
+Step 984: sensor values [1, 1, -1, -1]
+Step 984: average = 0.0, all legs matching is False
+Step 985: sensor values [1, 1, 1, -1]
+Step 985: average = 0.5, all legs matching is False
+Step 986: sensor values [-1, 1, 1, -1]
+Step 986: average = 0.0, all legs matching is False
+Step 987: sensor values [-1, -1, 1, -1]
+Step 987: average = -0.5, all legs matching is False
+Step 988: sensor values [-1, -1, 1, -1]
+Step 988: average = -0.5, all legs matching is False
+Step 989: sensor values [-1, -1, 1, -1]
+Step 989: average = -0.5, all legs matching is False
+Step 990: sensor values [-1, -1, 1, -1]
+Step 990: average = -0.5, all legs matching is False
+Step 991: sensor values [-1, -1, 1, -1]
+Step 991: average = -0.5, all legs matching is False
+Step 992: sensor values [-1, -1, 1, -1]
+Step 992: average = -0.5, all legs matching is False
+Step 993: sensor values [-1, -1, 1, -1]
+Step 993: average = -0.5, all legs matching is False
+Step 994: sensor values [-1, 1, 1, -1]
+Step 994: average = 0.0, all legs matching is False
+Step 995: sensor values [-1, 1, 1, -1]
+Step 995: average = 0.0, all legs matching is False
+Step 996: sensor values [-1, 1, -1, -1]
+Step 996: average = -0.5, all legs matching is False
+Step 997: sensor values [-1, 1, -1, -1]
+Step 997: average = -0.5, all legs matching is False
+Step 998: sensor values [-1, -1, -1, -1]
+Step 998: average = -1.0, all legs matching is True
+Step 999: sensor values [-1, -1, -1, -1]
+Step 999: average = -1.0, all legs matching is True
+1, -1, -1]
+Step 999: average = -0.5, all legs matching is False
+ 0.0, all legs matching is False

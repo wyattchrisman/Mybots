@@ -11,12 +11,17 @@ class SENSOR:
 
     def Get_Value(self, step):
         self.values[step] = pyrosim.Get_Touch_Sensor_Value_For_Link(self.linkName)
+    
+    def return_value(self, step):
+        return self.values[step]
         
         '''
         if step == c.size - 1:
             print(self.linkName, self.values)
         '''
         
+    '''
     def Save_Values(self):
         filename = f"data/{self.linkName}_sensor.npy"
         numpy.save(filename, self.values)
+    '''
