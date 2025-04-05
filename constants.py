@@ -14,10 +14,10 @@ amplitude_front = 0
 frequency_front = 15
 phaseOffset_front = 0
 
-numberOfGenerations = 15
-populationSize = 15
+numberOfGenerations = 50
+populationSize = 50
 
 numSensorNeurons = 5
 numMotorNeurons = 8
 
-motorJointRange = 0.2
+motorJointRange = 0.5

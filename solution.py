@@ -26,6 +26,7 @@ class SOLUTION:
     def Wait_For_Simulation_To_End(self):
         fitnessFile = f"fitness{str(self.myID)}.txt"
         while not os.path.exists(fitnessFile):
+            #print(f"Looking for {fitnessFile}")
             time.sleep(0.01)
 
         fitnessFile = open(fitnessFile, "r")
