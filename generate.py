@@ -1,9 +1,6 @@
 import pyrosim.pyrosim as pyrosim
 import random
 
-
-
-
 def main():
     pass
 

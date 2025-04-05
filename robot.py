@@ -6,6 +6,7 @@ from motor import MOTOR
 import constants as c
 import os
 import numpy
+import math
 
 
 class ROBOT:
@@ -13,6 +14,9 @@ class ROBOT:
     def __init__(self, solutionID) -> None:
         self.robotId = p.loadURDF("body.urdf")
         self.solutionID = solutionID
+        self.legs_touching = 0
+        self.legs_floating = 0
+        self.legs_mismatch = 0
 
         pyrosim.Prepare_To_Simulate(self.robotId)
 
@@ -38,9 +42,16 @@ class ROBOT:
                 values.append(sensor.return_value(step))
 
         average_sensor = numpy.mean(values)
-        all_touching = True if (average_sensor == -1 or average_sensor == 1) else False
-        print(f"Step {step}: sensor values {[int(i) for i in values]}")
-        print(f"Step {step}: average = {average_sensor}, all legs matching is {all_touching}")
+
+        all_touching = True if average_sensor == 1 else False
+        all_not_touching = True if average_sensor == -1 else False
+
+        self.legs_touching += 1 if all_touching else 0
+        self.legs_floating += 1 if all_not_touching else 0
+        self.legs_mismatch += 1 if not (all_not_touching or all_touching) else 0
+
+        #print(f"Step {step}: sensor values {[int(i) for i in values]}")
+        #print(f"Step {step}: average = {average_sensor}, all legs matching is {all_touching}")
 
     def Prepare_To_Act(self):
         self.motors = {}
@@ -70,12 +81,15 @@ class ROBOT:
         #self.nn.Print()
 
     def Get_Fitness(self):
+        '''
         basePositionAndOrientation = p.getBasePositionAndOrientation(self.robotId)
         basePosition = basePositionAndOrientation[0]
-        xPosition = basePosition[0]
+        zPosition = basePosition[2]
+        '''
 
+        difference = abs(self.legs_floating - self.legs_touching) + self.legs_mismatch
 
         with open(f"tmp{str(self.solutionID)}.txt", "w") as file:
-            file.write(str(xPosition))
+            file.write(str(difference))
 
         os.system(f"mv tmp{str(self.solutionID)}.txt fitness{str(self.solutionID)}.txt")
