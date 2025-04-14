@@ -1,9 +1,11 @@
 import os
-from parallelHC import PARALLEL_HILL_CLIMBER
+from pronk import PRONK
 
 
-phc = PARALLEL_HILL_CLIMBER()
+pronk = PRONK()
 
-phc.Evolve()   
+pronk.Evolve()   
 
-phc.Show_Best()
+cont = input("Ready for final? ")
+
+pronk.Show_Best()

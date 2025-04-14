@@ -6,8 +6,6 @@ from motor import MOTOR
 import constants as c
 import os
 import numpy
-import math
-
 
 class ROBOT:
 
@@ -17,6 +15,8 @@ class ROBOT:
         self.legs_touching = 0
         self.legs_floating = 0
         self.legs_mismatch = 0
+
+        self.highest_z = 0
 
         pyrosim.Prepare_To_Simulate(self.robotId)
 
@@ -49,6 +49,12 @@ class ROBOT:
         self.legs_touching += 1 if all_touching else 0
         self.legs_floating += 1 if all_not_touching else 0
         self.legs_mismatch += 1 if not (all_not_touching or all_touching) else 0
+
+        basePositionAndOrientation = p.getBasePositionAndOrientation(self.robotId)
+        basePosition = basePositionAndOrientation[0]
+        zPosition = basePosition[2]
+
+        self.highest_z = zPosition if zPosition > self.highest_z else self.highest_z
 
         #print(f"Step {step}: sensor values {[int(i) for i in values]}")
         #print(f"Step {step}: average = {average_sensor}, all legs matching is {all_touching}")
@@ -87,9 +93,13 @@ class ROBOT:
         zPosition = basePosition[2]
         '''
 
-        difference = abs(self.legs_floating - self.legs_touching) + self.legs_mismatch
+        fitness = abs(self.legs_floating - self.legs_touching * 3) + self.legs_mismatch
+
+        #fitness = fitness - (self.highest_z * 100)
+
+        # print(f"Pre: {fitness}, Post: {post}")
 
         with open(f"tmp{str(self.solutionID)}.txt", "w") as file:
-            file.write(str(difference))
+            file.write(str(fitness))
 
         os.system(f"mv tmp{str(self.solutionID)}.txt fitness{str(self.solutionID)}.txt")
