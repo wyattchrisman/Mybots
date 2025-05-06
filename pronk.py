@@ -1,6 +1,7 @@
 from solution import SOLUTION
 import constants as c
 import copy
+import csv
 import os
 
 class PRONK:
@@ -9,6 +10,7 @@ class PRONK:
 
         os.system("rm brain*.nndf")
         os.system("rm fitness*.txt")
+        os.system("rm oscillations*.txt")
 
         self.parents = {}
         self.nextAvailableID = 0
@@ -55,9 +57,13 @@ class PRONK:
         '''
         best = self.parents[0]
         for parent in self.parents.values():
-            if parent.fitness < best.fitness:
-                best = parent
-
+            if c.maximize:
+                if parent.fitness >= best.fitness:
+                    best = parent
+            else:
+                if parent.fitness <= best.fitness:
+                    best = parent
+ 
         best.Start_Simulation("GUI")
 
         
@@ -81,5 +87,26 @@ class PRONK:
 
     def Select(self):
         for p_idx, parent in self.parents.items():
-            if parent.fitness > self.children[p_idx].fitness:
-                self.parents[p_idx] = self.children[p_idx]
+            new = False
+            if c.maximize: 
+                if parent.fitness <= self.children[p_idx].fitness:
+                    self.parents[p_idx] = self.children[p_idx]
+                    new = True
+            else:
+                if parent.fitness >= self.children[p_idx].fitness:
+                    self.parents[p_idx] = self.children[p_idx]
+                    new = True
+
+            current_bot = 'B'
+            file_path = f'robot{current_bot}_oscillations.csv'
+            with open(file_path, mode='a', newline='') as file:
+                writer = csv.writer(file)
+                if new:
+                    writer.writerow([self.parents[p_idx].oscillation])
+                else:
+                    writer.writerow([self.children[p_idx].oscillation])
+
+            file_path = f'robot{current_bot}_fitness.csv'
+            with open(file_path, mode='a', newline='') as file:
+                writer = csv.writer(file)
+                writer.writerow([self.parents[p_idx].fitness])
